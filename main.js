@@ -35,3 +35,4 @@ document.addEventListener("DOMContentLoaded", () => {
  });
 });
 
+const zyPw = "Zyvoid2025";
