@@ -3,8 +3,8 @@ function loadGoogleFonts(){
  window.addEventListener('DOMContentLoaded',loadGoogleFonts);
  
 const zyLink = {
- Access: `zyAccess`,
- goAccess: `https://www.zyvoid.cloud/2025/06/access.html`,
+ tokenAccess: `zyAccess`,
+ Access: `https://www.zyvoid.cloud/2025/06/access.html`,
  ads: ``,
  dashboard: `https://www.zyvoid.cloud/2025/06/dashboard.html`,
  hero: `https://www.zyvoid.cloud/2025/06/hero.html`,
