@@ -13,7 +13,7 @@ const zyLink = {
  battleEffect: `https://www.zyvoid.cloud/2025/06/battleEffect.html`,
  unlockFps: `https://www.zyvoid.cloud/2025/06/unlockFps.html`,
  tutorial: ``,
- Rlfile:``,
+ Rlfile:`https://www.zyvoid.cloud/2025/06/request-laporkan-file.html`,
  information: `https://www.zyvoid.cloud/2025/06/informasi.html`,
  youtube: `https://youtube.com/@zyvoid`,
  tiktok: ``
