@@ -4,7 +4,7 @@ function loadGoogleFonts(){
  
 const zyLink = {
  tokenAccess: `zyAccess`,
- Access: `https://www.zyvoid.cloud/2025/06/access.html`,
+ access: `https://www.zyvoid.cloud/2025/06/access.html`,
  ads: ``,
  dashboard: `https://www.zyvoid.cloud/2025/06/dashboard.html`,
  hero: `https://www.zyvoid.cloud/2025/06/hero.html`,
