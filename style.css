@@ -1,1 +1,60 @@
-*{-webkit-tap-highlight-color:transparent!important;tap-highlight-color:transparent!important;outline:0!important;box-sizing:border-box}body{background:#060606;padding:0;margin:0;font-family:"Oxanium",sans-serif}button,input,a{font-family:inherit;background:#fff0;color:#eee;border:none}#myNav{display:flex;justify-content:space-between;position:fixed;top:0;left:0;height:55px;width:100%;z-index:100;background:#090909;border-bottom:.5px solid #333;border-radius:0 0 2px 2px}#boxLogo{display:flex;padding:0;margin:0 0 0 5%;height:100%;width:max-content}#brand{display:block;padding:0;margin:13px 0 0 0;font-family:"Audiowide",sans-serif;font-size:21px;font-weight:450;color:#fff}#domain{display:block;padding:0;margin:18px 0 0 0;font-family:"Audiowide",sans-serif;font-size:18px;font-weight:450;color:#aaa}#btnNav{padding:6px 12px 4.5px 12px;margin:auto 5% auto 0;display:block;height:max-content;width:max-content;background:#101010;border:.5px solid #aaa;font-size:10.6px;font-weight:400;border-radius:3px;color:#eee}
+*{
+ -webkit-tap-highlight-color:transparent!important;
+ tap-highlight-color:transparent!important;
+ outline:0!important;
+ box-sizing:border-box;}
+body{
+ background:#060606;
+ padding:0;
+ margin:0;
+ font-family:"Oxanium",sans-serif;}
+button,input,a{
+ font-family:inherit;
+ background:#fff0;
+ color:#eee;
+ border:none;
+ border-radius:3px;}
+#myNav{
+ display:flex;
+ justify-content:space-between;
+ position:fixed;top:0;left:0;
+ height:55px;
+ width:100%;
+ background:#090909;
+ border-bottom:.5px solid #333;
+ border-radius:0 0 2px 2px;
+ z-index:100;}
+#boxLogo{
+ display:flex;
+ padding:0;
+ margin:0 0 0 5%;
+ height:100%;
+ width:max-content;}
+#brand{
+ display:block;
+ padding:0;
+ margin:13px 0 0 0;
+ font-family:"Audiowide",sans-serif;
+ font-size:21px;
+ font-weight:450;
+ color:#fff;}
+#domain{
+ display:block;
+ padding:0;
+ margin:18px 0 0 0;
+ font-family:"Audiowide",sans-serif;
+ font-size:18px;
+ font-weight:450;
+ color:#aaa;}
+#btnNav{
+ padding:6px 12px 4.5px 12px;
+ margin:auto 5% auto 0px;
+ display:block;
+ height:max-content;
+ width:max-content;
+ background:#101010;
+ border:0.5px solid #aaa;
+ font-size:10.6px;
+ font-weight:400;
+ border-radius:3px;
+ color:#eee;}
