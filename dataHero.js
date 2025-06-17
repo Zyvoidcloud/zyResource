@@ -242,7 +242,7 @@ const dataHero = {
    "Lolita":{
     info:["Support/Tank","2016"],
     skin:["NoFile"]},
-   "Lou yi":{
+   "Luo yi":{
     info:["Mage","2020"],
     skin:["Epic","Collector"]},
    "Lukas":{
