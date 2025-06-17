@@ -5,7 +5,7 @@ const dataHero = {
     skin:["Starlight","Soul Vessel"]},
    "Akai":{
     info:["Tank","2016"],
-    skin:["Halloween","Kunfu panda"]},
+    skin:["Halloween","Kungfu panda"]},
    "Aldous":{
     info:["Fighter","2018"],
     skin:["Blazing","Mistbender","Collector"]},
@@ -14,7 +14,7 @@ const dataHero = {
     skin:["Epic"]},
    "Alpha":{
     info:["Fighter","2017"],
-    skin:["Epic","Collector","Legend"]},
+    skin:["Epic"]},
    "Alucard":{
     info:["Fighter/Assassin","2016"],
     skin:["Star wars","Legend"]},
