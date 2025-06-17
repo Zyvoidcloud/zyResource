@@ -177,7 +177,7 @@ const dataHero = {
     skin:["Epic"]},
    "Irithel":{
     info:["Marksman","2017"],
-    skin:["Zodiac","Ducati"]},
+    skin:["Ducati"]},
    "Ixia":{
     info:["Marksman","2023"],
     skin:["Starlight"]},
