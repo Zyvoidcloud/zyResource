@@ -238,7 +238,7 @@ const dataHero = {
     skin:["Aspirants","Collector","Legend"]},
    "Ling":{
     info:["Assassin","2019"],
-    skin:["Kunfu panda","Dragon tamer","Mworld","Neobeast","Collector"]},
+    skin:["Kungfu panda","Dragon tamer","Mworld","Neobeast","Collector"]},
    "Lolita":{
     info:["Support/Tank","2016"],
     skin:["NoFile"]},
