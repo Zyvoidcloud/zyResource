@@ -123,7 +123,7 @@ const dataHero = {
     skin:["Sanrio","Collector"]},
    "Franco":{
     info:["Tank","2016"],
-    skin:["Epic","Legend"]},
+    skin:["Epic"]},
    "Fredrinn":{
     info:["Fighter/Tank","2022"],
     skin:["Neobeast","Sparkle"]},
@@ -159,7 +159,7 @@ const dataHero = {
     skin:["Collector"]},
    "Harith":{
     info:["Mage","2018"],
-    skin:["Hunter x hunter","Collector"]},
+    skin:["Collector"]},
    "Harley":{
     info:["Assassin/Mage","2017"],
     skin:["Epic","Collector"]},
