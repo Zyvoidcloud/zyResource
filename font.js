@@ -16,5 +16,5 @@ const zyLink = {
  Rlfile:`https://www.zyvoid.cloud/2025/06/request-laporkan-file.html`,
  information: `https://www.zyvoid.cloud/2025/06/informasi.html`,
  youtube: `https://youtube.com/@zyvoid`,
- tiktok: ``
+ tiktok: `https://www.tiktok.com/@zyvoid_official?_t=ZS-8xGbLhxh7Y1&_r=1`
 };
