@@ -117,7 +117,7 @@ const dataHero = {
     skin:["Christmas","Lightborn","Summer","Luckybox","Aot","Aspirants"]},
    "Faramis":{
     info:["Support/Mage","2019"],
-    skin:["mythic"]},
+    skin:["Mythic"]},
    "Floryn":{
     info:["Support","2021"],
     skin:["Sanrio","Collector"]},
