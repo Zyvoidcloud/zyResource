@@ -2,7 +2,7 @@ const dataHero = {
   "cloud1":{
    "Aamon":{
     info:["Assassin","2021"],
-    skin:["Starlight","Soul vessel"]},
+    skin:["Starlight","Soul Vessel"]},
    "Akai":{
     info:["Tank","2016"],
     skin:["Halloween","Kunfu panda"]},
