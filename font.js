@@ -12,7 +12,7 @@ const zyLink = {
  fileSkin: `https://cdn.jsdelivr.net/gh/Zyvoidcloud/`,
  battleEffect: `https://www.zyvoid.cloud/2025/06/battleEffect.html`,
  unlockFps: `https://www.zyvoid.cloud/2025/06/unlockFps.html`,
- tutorial: ``,
+ tutorial: `https://youtu.be/NehKAOaCo7U?si=QaZ-lvbCpn6EYiYY`,
  Rlfile:`https://www.zyvoid.cloud/2025/06/request-laporkan-file.html`,
  information: `https://www.zyvoid.cloud/2025/06/informasi.html`,
  youtube: `https://youtube.com/@zyvoid`,
