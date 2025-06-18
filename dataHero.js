@@ -14,7 +14,7 @@ const dataHero = {
     skin:["Epic"]},
    "Alpha":{
     info:["Fighter","2017"],
-    skin:["Epic"]},
+    skin:["Epic","Collector","Legend"]},
    "Alucard":{
     info:["Fighter/Assassin","2016"],
     skin:["Star wars","Legend"]},
@@ -159,7 +159,7 @@ const dataHero = {
     skin:["Collector"]},
    "Harith":{
     info:["Mage","2018"],
-    skin:["Collector"]},
+    skin:["Collector","Hunter x hunter"]},
    "Harley":{
     info:["Assassin/Mage","2017"],
     skin:["Epic","Collector"]},
