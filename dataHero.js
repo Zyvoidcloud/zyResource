@@ -89,7 +89,7 @@ const dataHero = {
     skin:["Prime","Sanrio"]},
    "Clint":{
     info:["Marksman","2016"],
-    skin:["Epic","Mythic","Collector"]},
+    skin:["Mythic","Collector"]},
    "Cyclops":{
     info:["Mage","2017"],
     skin:["Star wars","Collector"]},
@@ -129,7 +129,7 @@ const dataHero = {
     skin:["Neobeast","Sparkle"]},
    "Freya":{
     info:["Fighter","2016"],
-    skin:["Legend"]},
+    skin:["NoFile"]},
    "Gatotkaca":{
     info:["Tank/Fighter","2017"],
     skin:["Epic","Luckybox"]},
@@ -247,7 +247,7 @@ const dataHero = {
     skin:["Epic","Collector"]},
    "Lukas":{
     info:["Fighter","2024"],
-    skin:["Naruto"]},
+    skin:["NoFile"]},
    "Lunox":{
     info:["Mage","2018"],
     skin:["Zodiac","Legend"]},
