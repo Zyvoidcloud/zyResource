@@ -199,7 +199,7 @@ const dataHero = {
     skin:["Starlight"]},
    "Kagura":{
     info:["Mage","2016"],
-    skin:["Clouds","Exorcist","Luckybox"]},
+    skin:["Exorcist","Luckybox"]},
    "Kaja":{
     info:["Support/Fighter","2018"],
     skin:["Epic"]},
@@ -208,7 +208,7 @@ const dataHero = {
     skin:["Sakura"]},
    "Karina":{
     info:["Assassin","2016"],
-    skin:["Epic","Kof","Zodiac"]},
+    skin:["Epic","Zodiac"]},
    "Karrie":{
     info:["Marksman","2017"],
     skin:["Kishin"]},
@@ -302,7 +302,7 @@ const dataHero = {
     skin:["Kof","Collector"]},
    "Pharsa":{
     info:["Mage","2017"],
-    skin:["Epic","Neobeast","Collector"]},
+    skin:["Epic","Collector"]},
    "Phoveus":{
     info:["Fighter","2021"],
     skin:["Starlight"]},
@@ -323,7 +323,7 @@ const dataHero = {
     skin:["Legend"]},
    "Selena":{
     info:["Assassin/Mage","2018"],
-    skin:["Abyss","Stun","Zenith","Zodiac"]},
+    skin:["Abyss","Stun","Zodiac"]},
    "Silvanna":{
     info:["Fighter","2019"],
     skin:["Valentine","Fatcat"]},
@@ -387,6 +387,6 @@ const dataHero = {
     skin:["Starlight"]},
    "Zilong":{
     info:["Fighter/Assassin","2016"],
-    skin:["Collector"]},
+    skin:["NoFile"]},
  }
 };
