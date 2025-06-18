@@ -366,7 +366,7 @@ const dataHero = {
     skin:["Transformers","11.11"]},
    "Xavier":{
     info:["Mage","2022"],
-    skin:["Jujutsu kaisen","Clouds"]},
+    skin:["Jujutsu kaisen"]},
    "Yi sun shin":{
     info:["Assassin/Marksman","2017"],
     skin:["Collector"]},
@@ -375,7 +375,7 @@ const dataHero = {
     skin:["Aot","Jujutsu kaisen","Mworld"]},
    "Yu zhong":{
     info:["Fighter","2020"],
-    skin:["Exorcist","Collector"]},
+    skin:["Collector"]},
    "Yve":{
     info:["Mage","2021"],
     skin:["NoFile"]},
