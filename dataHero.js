@@ -379,6 +379,9 @@ const dataHero = {
    "Yve":{
     info:["Mage","2021"],
     skin:["NoFile"]},
+   "Zetian":{
+     info:["Mage","2025"],
+     skin:["NoFile"]},
    "Zhask":{
     info:["Mage","2017"],
     skin:["Zodiac"]},
