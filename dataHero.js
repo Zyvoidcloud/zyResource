@@ -5,31 +5,31 @@ const dataHero = {
     skin:["Starlight","Soul Vessel"]},
    "Akai":{
     info:["Tank","2016"],
-    skin:["Halloween","Kungfu panda"]},
+    skin:["Halloween","Anniversary","Kungfu panda"]},
    "Aldous":{
     info:["Fighter","2018"],
-    skin:["Blazing","Mistbender","Collector"]},
+    skin:["Transformers","Blazing","Mistbender","M1","Collector"]},
    "Alice":{
     info:["Mage/Tank","2016"],
-    skin:["Epic"]},
+    skin:["Luckybox"]},
    "Alpha":{
     info:["Fighter","2017"],
-    skin:["Epic","Collector","Legend"]},
+    skin:["Luckybox","Collector","Legend"]},
    "Alucard":{
     info:["Fighter/Assassin","2016"],
-    skin:["Star wars","Legend"]},
+    skin:["Luckybox","Lightborn","Star wars","Legend"]},
    "Angela":{
     info:["Support","2018"],
-    skin:["Sanrio","Kishin","Aspirant","Collector"]},
+    skin:["Starlight Gold","Sanrio","Kishin","Aspirant","Collector"]},
    "Argus":{
     info:["Fighter","2017"],
-    skin:["Epic","Star wars"]},
+    skin:["Starlight","Star wars","Custom Epic"]},
    "Arlott":{
     info:["Fighter/Assassin","2023"],
-    skin:["Collector"]},
+    skin:["Starlight","Collector"]},
    "Atlas":{
     info:["Tank","2020"],
-    skin:["Collector"]},
+    skin:["Msc","Starlight","Collector"]},
    "Aulus":{
     info:["Fighter","2021"],
     skin:["Special"]},
@@ -38,10 +38,10 @@ const dataHero = {
     skin:["Kof","Zodiac","Collector"]},
    "Badang":{
     info:["Fighter","2019"],
-    skin:["Zodiac","Collector"]},
+    skin:["Zodiac","Collector","Saint seiya Gold"]},
    "Balmond":{
     info:["Fighter","2016"],
-    skin:["Collector"]},
+    skin:["Special","Epic","Collector"]},
    "Bane":{
     info:["Fighter/Mage","2016"],
     skin:["Epic"]},
@@ -53,43 +53,43 @@ const dataHero = {
     skin:["NoFile"]},
    "Beatrix":{
     info:["Marksman","2021"],
-    skin:["Mseries"]},
+    skin:["Starlight","Mseries"]},
    "Belerick":{
     info:["Tank","2018"],
     skin:["Epic"]},
    "Benedetta":{
     info:["Assassin/Fighter","2020"],
-    skin:["Mpl","Ducati","Covenant","Collector"]},
+    skin:["Special","Starlight","Mpl","Ducati","Covenant","Collector"]},
    "Brody":{
     info:["Marksman","2020"],
-    skin:["Neobeast","Stun","Collector"]},
+    skin:["Stun","Neobeast","Champion","Collector"]},
    "Bruno":{
     info:["Marksman","2016"],
-    skin:["Dawning"]},
+    skin:["Starlight","Neymar","Dawning"]},
    "Carmilla":{
     info:["Support/Tank","2020"],
     skin:["Epic"]},
    "Cecilion":{
     info:["Mage","2020"],
-    skin:["Hunter x hunter","Collector"]},
+    skin:["Starlight","Hunter x hunter","Collector"]},
    "Change":{
     info:["Mage","2018"],
-    skin:["Aspirant","Sanrio"]},
+    skin:["Luckybox","Lunar fest","Aspirant","Sanrio"]},
    "Chip":{
     info:["Support/Tank","2024"],
-    skin:["NoFile"]},
+    skin:["Elite"]},
    "Chou":{
     info:["Fighter","2016"],
-    skin:["Dawning","Kof","Stun"]},
+    skin:["Luckybox","Champion","Dawning","Saint seiya Gold","Kof","Stun"]},
    "Cici":{
     info:["Fighter","2023"],
     skin:["Starlight"]},
    "Claude":{
     info:["Marksman","2018"],
-    skin:["Prime","Sanrio"]},
+    skin:["Luckybox","Blazing","M6","Prime","Sanrio","Valentine"]},
    "Clint":{
     info:["Marksman","2016"],
-    skin:["Mythic","Collector"]},
+    skin:["Epic","M2","Mythic","Collector"]},
    "Cyclops":{
     info:["Mage","2017"],
     skin:["Star wars","Collector"]},
@@ -98,38 +98,38 @@ const dataHero = {
     skin:["Epic"]},
    "Dyrroth":{
     info:["Fighter","2019"],
-    skin:["Kof","Hunter x hunter","Collector"]},
+    skin:["Venom","Kof","Hunter x hunter","Collector"]},
    "Edith":{
     info:["Tank/Marksman","2021"],
-    skin:["Clouds","Collector"]},
+    skin:["Mpl","Clouds","Collector"]},
    "Esmeralda":{
     info:["Tank/Mage","2019"],
-    skin:["Dawning","Collector"]},
+    skin:["Blazing","Dawning","Collector"]},
    "Estes":{
     info:["Support","2017"],
-    skin:["Sparkle"]},
+    skin:["Sparkle","Champion"]},
    "Eudora":{
     info:["Mage","2016"],
-    skin:["Atomic"]}
+    skin:["Starlight","Luckybox","Atomic"]}
 },"cloud2":{
    "Fanny":{
     info:["Assassin","2016"],
-    skin:["Christmas","Lightborn","Summer","Luckybox","Aot","Aspirants"]},
+    skin:["Luckybox","Christmas","Lightborn","Summer","Valentine","Aot","Aspirants"]},
    "Faramis":{
     info:["Support/Mage","2019"],
-    skin:["Mythic"]},
+    skin:["Summer","Mythic"]},
    "Floryn":{
     info:["Support","2021"],
     skin:["Sanrio","Collector"]},
    "Franco":{
     info:["Tank","2016"],
-    skin:["Epic"]},
+    skin:["Epic","Luckybox","Mpl","Blazing"]},
    "Fredrinn":{
     info:["Fighter/Tank","2022"],
     skin:["Neobeast","Sparkle"]},
    "Freya":{
     info:["Fighter","2016"],
-    skin:["NoFile"]},
+    skin:["Epic"]},
    "Gatotkaca":{
     info:["Tank/Fighter","2017"],
     skin:["Epic","Luckybox"]},
@@ -138,19 +138,19 @@ const dataHero = {
     skin:["Special"]},
    "Gord":{
     info:["Mage","2016"],
-    skin:["Starlight","Legend"]},
+    skin:["Epic","Starlight","Starlight Gold","Legend"]},
    "Granger":{
     info:["Marksman","2019"],
-    skin:["Transformers","Lightborn","Exorcist","Collector","Legend"]},
+    skin:["Create","Transformers","Valentine","Lightborn","Exorcist","Collector","Legend"]},
    "Grock":{
     info:["Tank/Fighter","2017"],
     skin:["Epic","Venom"]},
    "Guinevere":{
     info:["Fighter","2019"],
-    skin:["Kof","Legend"]},
+    skin:["Epic","Summer","Kof","Legend"]},
    "Gusion":{
     info:["Assassin","2018"],
-    skin:["Kof","11.11","Collector","Legend"]},
+    skin:["Epic","Kof","11.11","Collector","Legend"]},
    "Hanabi":{
     info:["Marksman","2018"],
     skin:["Soul vessel","Allstar","Collector"]},
@@ -159,13 +159,13 @@ const dataHero = {
     skin:["Collector"]},
    "Harith":{
     info:["Mage","2018"],
-    skin:["Collector","Hunter x hunter"]},
+    skin:["Lightborn","Champion","Collector","Hunter x hunter"]},
    "Harley":{
     info:["Assassin/Mage","2017"],
     skin:["Epic","Collector"]},
    "Hayabusa":{
     info:["Assassin","2016"],
-    skin:["Epic","11.11","Exorcist","Kakashi"]},
+    skin:["Epic","Starlight Gold","11.11","Exorcist","Kakashi"]},
    "Helcurt":{
     info:["Assassin","2017"],
     skin:["Zodiac","Starlight"]},
@@ -177,16 +177,16 @@ const dataHero = {
     skin:["Epic"]},
    "Irithel":{
     info:["Marksman","2017"],
-    skin:["Ducati"]},
+    skin:["Luckybox","Zodiac","Ducati"]},
    "Ixia":{
     info:["Marksman","2023"],
     skin:["Starlight"]},
    "Jawhead":{
     info:["Fighter","2018"],
-    skin:["Allstar","Collector"]},
+    skin:["Mpl","Allstar","Collector"]},
    "Johnson":{
     info:["Tank/Support","2017"],
-    skin:["Legend"]},
+    skin:["Luckybox","Saber","Legend"]},
    "Joy":{
     info:["Assassin","2022"],
     skin:["Starlight"]},
@@ -196,91 +196,91 @@ const dataHero = {
 },"cloud3":{
    "Kadita":{
     info:["Mage/Assassin","2018"],
-    skin:["Starlight"]},
+    skin:["Starlight","Create","Mpl"]},
    "Kagura":{
     info:["Mage","2016"],
-    skin:["Exorcist","Luckybox"]},
+    skin:["Epic","Luckybox","Starlight","Starlight Gold","Exorcist","Clouds"]},
    "Kaja":{
     info:["Support/Fighter","2018"],
-    skin:["Epic"]},
+    skin:["Epic","Luckybox"]},
    "Kalea":{
     info:["Support/Fighter","2025"],
     skin:["Sakura"]},
    "Karina":{
     info:["Assassin","2016"],
-    skin:["Epic","Zodiac"]},
+    skin:["Epic","Luckybox","Kof","Zodiac"]},
    "Karrie":{
     info:["Marksman","2017"],
-    skin:["Kishin"]},
+    skin:["Luckybox","Starlight Gold","Kishin"]},
    "Khaleed":{
     info:["Fighter","2020"],
     skin:["Epic"]},
    "Khufra":{
     info:["Tank","2019"],
-    skin:["Epic","Collector"]},
+    skin:["Starlight","Collector","Custom Epic"]},
    "Kimmy":{
     info:["Marksman/Mage","2018"],
-    skin:["Luckybox","Star wars","Dragon tamer"]},
+    skin:["Starlight","Luckybox","Star wars","Dragon tamer"]},
    "Lancelot":{
     info:["Assassin","2017"],
-    skin:["Dawning","Luckybox","Zodiac","Kishin","Champion"]},
+    skin:["Luckybox","Christmas","Dawning","Zodiac","Kishin","Champion"]},
    "Lapu lapu":{
     info:["Fighter","2017"],
-    skin:["Collector"]},
+    skin:["Special","Starlight","Collector"]},
    "Layla":{
     info:["Marksman","2016"],
-    skin:["Aspirant","Collector"]},
+    skin:["Starlight","Aspirant","Collector"]},
    "Leomord":{
     info:["Fighter","2018"],
-    skin:["Epic","Abyss","Ducati"]},
+    skin:["Luckybox","Abyss","Ducati"]},
    "Lesley":{
     info:["Marksman/Assassin","2018"],
-    skin:["Aspirants","Collector","Legend"]},
+    skin:["Luckybox","Starlight","Starlight Gold","Aspirants","Collector","Fatcat","Covenant","Legend"]},
    "Ling":{
     info:["Assassin","2019"],
-    skin:["Kungfu panda","Dragon tamer","Mworld","Neobeast","Collector"]},
+    skin:["Starlight","Kungfu panda","Dragon tamer","Mworld","Neobeast","Collector"]},
    "Lolita":{
     info:["Support/Tank","2016"],
     skin:["NoFile"]},
    "Luo yi":{
     info:["Mage","2020"],
-    skin:["Epic","Collector"]},
+    skin:["Epic","Starlight","Collector"]},
    "Lukas":{
     info:["Fighter","2024"],
     skin:["NoFile"]},
    "Lunox":{
     info:["Mage","2018"],
-    skin:["Zodiac","Legend"]},
+    skin:["Luckybox","Zodiac","Legend"]},
    "Lylia":{
     info:["Mage","2019"],
-    skin:["Neobeast"]},
+    skin:["Starlight","Neobeast"]},
    "Martis":{
     info:["Fighter","2018"],
-    skin:["Aot","Zodiac"]},
+    skin:["Luckybox","Starlight","Aot","Zodiac"]},
    "Masha":{
     info:["Fighter/Tank","2019"],
     skin:["Kof"]},
    "Mathilda":{
     info:["Support/Assassin","2020"],
-    skin:["Epic"]},
+    skin:["Epic","Mpl"]},
    "Melissa":{
     info:["Marksman","2022"],
-    skin:["Jujutsu kaisen","Sparkle","Collector"]},
+    skin:["Starlight","Jujutsu kaisen","Sparkle","Collector"]},
    "Minotaur":{
     info:["Tank/Support","2016"],
     skin:["Zodiac"]},
    "Minsitthar":{
     info:["Fighter","2018"],
-    skin:["Collector"]},
+    skin:["Starlight","Collector"]},
    "Miya":{
     info:["Marksman","2016"],
-    skin:["Atomic","Collector","Legend"]},
+    skin:["Starlight","Christmas","Atomic","Collector","Legend"]},
    "Moskov":{
     info:["Marksman","2017"],
-    skin:["Abyss","Allstar"]},
+    skin:["Luckybox","Abyss","Allstar"]},
 },"cloud4":{
    "Nana":{
-    info:["Mage","Po","2016"],
+    info:["Mage","2016"],
     skin:["Mistbender","Collector"]},
    "Natalia":{
     info:["Assassin","2016"],
@@ -293,52 +293,52 @@ const dataHero = {
     skin:["11.11"]},
    "Novaria":{
     info:["Mage","2023"],
-    skin:["Collector"]},
+    skin:["Starlight","Collector"]},
    "Odette":{
     info:["Mage","2017"],
-    skin:["Starlight","Zodiac"]},
+    skin:["Starlight","Create","Lunar fest","Zodiac"]},
    "Paquito":{
     info:["Fighter/Assassin","2021"],
-    skin:["Kof","Collector"]},
+    skin:["Starlight","Kof","Fmvp","Pacquiao","Collector"]},
    "Pharsa":{
     info:["Mage","2017"],
-    skin:["Epic","Collector"]},
+    skin:["Epic","Starlight","Msc","Collector","Neobeast"]},
    "Phoveus":{
     info:["Fighter","2021"],
     skin:["Starlight"]},
    "Popol and kupa":{
     info:["Marksman","2020"],
-    skin:["Transformers","Collector"]},
+    skin:["Transformers","Collector","Allstar"]},
    "Rafaela":{
     info:["Support","2016"],
-    skin:["Lunar fest"]},
+    skin:["Mpl","Lunar fest"]},
    "Roger":{
     info:["Fighter/Marksman","2017"],
-    skin:["Prime"]},
+    skin:["Epic","M3","Prime"]},
    "Ruby":{
     info:["Fighter","2017"],
-    skin:["Aspirants","Collector"]},
+    skin:["Epic","Aspirants","Collector"]},
    "Saber":{
     info:["Assassin","2016"],
-    skin:["Legend"]},
+    skin:["Luckybox","Legend"]},
    "Selena":{
     info:["Assassin/Mage","2018"],
-    skin:["Abyss","Stun","Zodiac"]},
+    skin:["Epic","Abyss","Stun","Zodiac"]},
    "Silvanna":{
     info:["Fighter","2019"],
-    skin:["Valentine","Fatcat"]},
+    skin:["Collector","Valentine","Fatcat"]},
    "Sun":{
     info:["Fighter","2016"],
-    skin:["Collector"]},
+    skin:["Starlight","Collector"]},
    "Suyou":{
     info:["Assassin/Fighter","2024"],
     skin:["Sasuke"]},
    "Terizla":{
     info:["Fighter/Tank","2019"],
-    skin:["Collector"]},
+    skin:["Epic","Collector"]},
    "Thamuz":{
     info:["Fighter","2018"],
-    skin:["Kunfu panda"]},
+    skin:["Starlight","Kungfu panda"]},
    "Tigreal":{
     info:["Tank","2016"],
     skin:["Lightborn","Starlight"]},
@@ -348,13 +348,13 @@ const dataHero = {
 },"cloud5":{
    "Vale":{
     info:["Mage","2019"],
-    skin:["Dawning","Collector"]},
+    skin:["Starlight Gold","Dawning","Gaara","Collector"]},
    "Valentina":{
     info:["Mage","2021"],
-    skin:["Collector"]},
+    skin:["Starlight","Msc","Collector"]},
    "Valir":{
     info:["Mage","2018"],
-    skin:["Kof","Collector"]},
+    skin:["Kof","Saint seiya Gold","Collector","Legend"]},
    "Vexana":{
     info:["Mage","2017"],
     skin:["Zenith","Collector"]},
@@ -366,30 +366,30 @@ const dataHero = {
     skin:["Transformers","11.11"]},
    "Xavier":{
     info:["Mage","2022"],
-    skin:["Jujutsu kaisen"]},
+    skin:["Clouds","Jujutsu kaisen"]},
    "Yi sun shin":{
     info:["Assassin/Marksman","2017"],
-    skin:["Collector"]},
+    skin:["Starlight","Collector"]},
    "Yin":{
     info:["Fighter/Assassin","2022"],
     skin:["Aot","Jujutsu kaisen","Mworld"]},
    "Yu zhong":{
     info:["Fighter","2020"],
-    skin:["Collector"]},
+    skin:["Starlight","Collector","M5","Prime"]},
    "Yve":{
     info:["Mage","2021"],
-    skin:["NoFile"]},
+    skin:["Elite"]},
    "Zetian":{
      info:["Mage","2025"],
      skin:["NoFile"]},
    "Zhask":{
     info:["Mage","2017"],
-    skin:["Zodiac"]},
+    skin:["Luckybox","Starlight","Zodiac"]},
    "Zhuxin":{
     info:["Mage","2024"],
     skin:["Starlight"]},
    "Zilong":{
     info:["Fighter/Assassin","2016"],
-    skin:["NoFile"]},
+    skin:["Epic","Lunar fest"]},
  }
 };
