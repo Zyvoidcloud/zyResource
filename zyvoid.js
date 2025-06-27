@@ -1,1 +1,1 @@
-const zyAccess = "zyAccsess";
+const zyAccess = "zyAccess";
