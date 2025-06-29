@@ -41,7 +41,7 @@ const dataHero = {
    "Fanny": ["Luckybox", "Christmas", "Lightborn", "Summer", "Valentine", "Aot", "Aspirants"], 
    "Faramis": ["Summer", "Mythic"], 
    "Floryn": ["Collector", "Sanrio"], 
-   "Franco": ["Epic", "Luckybox", "Mpl", "Blazing", "Legend"], 
+   "Franco": ["Epic", "Luckybox", "Mpl", "Blazing"], 
    "Fredrinn": ["Neobeast", "Sparkle"], 
    "Freya": ["Epic"], 
    "Gatotkaca": ["Epic", "Luckybox"], 
