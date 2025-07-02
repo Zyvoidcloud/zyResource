@@ -132,6 +132,6 @@ const dataHero = {
    "Zetian": ["NoFile"], 
    "Zhask": ["Luckybox", "Starlight", "Zodiac"], 
    "Zhuxin": ["Starlight"], 
-   "Zilong": ["Epic", "Lunar fest"], 
+   "Zilong": ["Epic", "Lunar Fest"], 
  }
 };
