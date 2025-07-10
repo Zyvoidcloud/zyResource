@@ -21,39 +21,51 @@ button,input,a{
  margin:0px;
  height:55px;
  width:100%;
- border-bottom:0.5px solid #aaa;
- border-radius:0px 0px 3px 3px;
  position:fixed;
  top:0px;
  left:0px;
- z-index:100;
- backdrop-filter:blur(50px);}
-.backHome{
+ background:transparent;
+ backdrop-filter:blur(20px);
+ border-bottom:0.5px solid #aaa;
+ border-radius:0px 0px 3px 3px;
+ z-index:100;}
+.btnBack{
+ padding:0px 2px;
+ margin:auto 0px auto 6px;
  display:block;
- padding:0px;
- margin:0px;
- height:100%;
- width:45px;
- box-sizing:border-box;
- text-decoration:none;
- border-radius:0px;}
+ width:max-content;
+ height:max-content;}
 .iconBack{
  display:block;
  padding:0px;
- margin:auto auto;
- font-size:21px;
- font-weight:300;
+ margin:6px 0px 0px 0px;
+ font-size:22px !important;
+ font-weight:400;
  height:max-content;
  width:max-content;
- color:#eee;
- position:relative;
- left:5px;
- top:14px;}
+ color:#eee;}
 .brand{
  display:block;
  padding:0px;
  margin:auto 0px;
- font-family:"Audiowide",sans-serif;
+ font-family:"Audiowide", sans-serif;
  font-size:20px;
  font-weight:400;
- color:#eee;} 
+ color:#fff;
+ position:relative;
+ top:1px;}
+.btnNav {
+ padding: 0px 2px;
+ margin: auto 10px auto 0px;
+ display: block;
+ width: max-content;
+ height: max-content;}
+.iconNav {
+ display: block;
+ padding: 0px;
+ margin: 6px 0px 0px 0px;
+ font-size: 25px !important;
+ font-weight: 400;
+ height: max-content;
+ width: max-content;
+ color: #eee;}
