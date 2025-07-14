@@ -12,3 +12,5 @@ document.addEventListener('DOMContentLoaded', () => {
  addLink('stylesheet', 'https://fonts.googleapis.com/css2?family=Audiowide&family=Oxanium:wght@200..800&display=swap');
  addLink('stylesheet', 'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined');
 });
+
+const zyAccess = "zyAccess2025";
