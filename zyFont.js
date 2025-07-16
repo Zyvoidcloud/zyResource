@@ -13,4 +13,4 @@ document.addEventListener('DOMContentLoaded', () => {
  addLink('stylesheet', 'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined');
 });
 
-let zyAccess = "zyAccess2025";
+let zyAccess = "zyAccess26";
