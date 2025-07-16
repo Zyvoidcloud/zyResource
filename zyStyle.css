@@ -33,6 +33,7 @@ button,input,a{
  padding:0px 2px;
  margin:auto 0px auto 6px;
  display:block;
+ text-decoration: none;
  width:max-content;
  height:max-content;}
 .iconBack{
@@ -58,6 +59,7 @@ button,input,a{
  padding: 0px 2px;
  margin: auto 10px auto 0px;
  display: block;
+ text-decoration: none;
  width: max-content;
  height: max-content;}
 .iconNav {
