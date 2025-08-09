@@ -1,0 +1,163 @@
+*{
+ -webkit-tap-highlight-color:transparent!important;
+ tap-highlight-color:transparent!important;
+ outline:0!important;
+ box-sizing:border-box;}
+body{
+ background:#111111;
+ padding:0;
+ margin:0;
+ font-family:"Oxanium",sans-serif;}
+button,input,a{
+ font-family:inherit;
+ background:#fff0;
+ color:#eee;
+ border:none;
+ border-radius:3px;}
+.myNav{
+ display:flex;
+ justify-content:space-between;
+ padding:0px;
+ margin:0px;
+ height:55px;
+ width:100%;
+ position:fixed;
+ top:0px;
+ left:0px;
+ background:#141414;
+ border-bottom:0.5px solid #eee;
+ border-radius:0px 0px 3px 3px;
+ z-index:99999;}
+.brand{
+ display:block;
+ padding:0px;
+ margin:auto 0px auto 5%;
+ padding:0px;
+ font-family:"Audiowide", sans-serif;
+ font-size:20px;
+ font-weight:400;
+ color:#fefefe;}
+#btnOpenMenu{
+ display:block;
+ padding:6px 6px 5px 6px;
+ margin:auto 5% auto 0px;
+ height:33.5px;
+ width:max-content;
+ transition:0.4s;
+ border:0.5px solid #444;}
+.iconOpenMenu{
+ display:block;
+ padding:0px;
+ margin:0px;
+ font-size:21px !important;
+ font-weight:400;
+ color:#eee;}
+.containerMenu{
+ background:#141414;
+ padding:55px 0px 0px 0px;
+ margin:0px;
+ position:fixed;
+ top:0px;
+ right:-200px;
+ border-left:0.5px solid #eee;
+ display:block;
+ height:120%;
+ width:200px;
+ box-shadow:-40px 0px 30px -35px #060606;
+ z-index:9999;}
+.contentMenu{
+ display:block;
+ padding:4px 10px 10px 10px;
+ margin:0px;
+ height:100%;
+ width:100%;
+ overflow:auto;}
+.btnMenu{
+ display:flex;
+ justify-content:flex-start;
+ height:44px;
+ gap:5px;
+ padding:12px 10px 12px 10px;
+ margin:0px;
+ border-bottom:0.5px solid #aaa;
+ color:#ddd;
+ border-radius:0px;
+ text-decoration:none;
+ transition:0.4s;}
+.btnMenu:hover{
+ box-shadow:0px -40px 15px -42px #eee inset;
+ color:#eee;
+ border-color:#eee;
+ border-radius:0px 0px 3px 3px;
+ transition:0.4s;}
+
+.iconMenu{
+ display:block;
+ padding:0px;
+ margin:auto 0px;
+ font-size:20px !important;
+ font-weight:400;}
+ 
+.textMenu{
+ display:block;
+ padding:0px;
+ margin:auto 0px;
+ font-size:11.8px;
+ font-weight:450;
+ position:relative;
+ top:1px;}
+ 
+/* Access */
+#contentAccess{
+ position:fixed;
+ top:0%;
+ left:0%;
+ background:rgba(17, 17, 17, 0.98);
+ display:none;
+ width:100%;
+ height:100%;
+ z-index:9999999999999999999999999999999999;}
+.subAccess{
+ display:block;
+ padding:0px;
+ margin:8% auto 15px auto;
+ font-size:14px;
+ font-weight:600;
+ color:#efefef;
+ border-bottom:0.5px solid #aaa;
+ width:max-content;}
+ 
+.boxTextAccess{
+ display:block;
+ padding:7px 15px;
+ margin:0px 5%;
+ height:max-content;
+ width:90%;
+ border:0.5px solid #333;
+ border-radius:3px;}
+ 
+.textAccess{
+ display:block;
+ padding:0px;
+ margin:8px 0px;
+ font-size:11.5px;
+ font-weight:450;
+ color:#aaa;}
+ 
+.tutorialAccess{
+ text-decoration:none;
+ color:#daa520;}
+
+#btnAccess{
+ display:block;
+ padding:12px 0px 10px 0px;
+ margin:0px;
+ width:90%;
+ position:absolute;
+ bottom:5%;
+ left:5%;
+ background:#eee;
+ color:#111;
+ font-size:12.5px;
+ font-weight:500;
+ display:block;}
