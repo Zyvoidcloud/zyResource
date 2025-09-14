@@ -1,0 +1,2522 @@
+[
+ {
+ "hero":"Miya",
+ "name":"Moonlight Archer",
+ "role":"Marksman",
+ "release":2016,
+ "specialty":"Finisher/Damage",
+ "lane":"Gold Lane",
+ "region":"Azrya Woodlands",
+ "id":1,
+ "skin":{
+  "Default": {
+   "Luckybox":[true, "Christmas Carnival"],
+   "Starlight":[true, "Captain Thorns"],
+   "Limited":[true, "Honor"],
+   "Legend":[true, "Modena Butterfly"],
+   "Valentine":[true, "Sweet Fantasy"],
+   "Special":[true, "Suzuhime"],
+   "Anniversary 5th":[true, "Moon Priestess"],
+   "Collector":[true, "Doom Catalyst"],
+   "Atomic":[true, "Atomic Pop Miya"],
+   "Starlight 2":[true, "Nightowl Huntress"]
+  }
+ }
+},
+{
+ "hero":"Balmond",
+ "name":"Bloody Beast",
+ "role":"Fighter",
+ "release":2016,
+ "specialty":"Damage/Regen",
+ "lane":"EXP Lane",
+ "region":"The Barren Lands",
+ "id":2,
+ "skin":{
+  "Default":{
+   "Collector":[ true, "God of Mountains"],
+   "Special":[ true, "Bioroid"],
+   "Epic":[ true, "Internal Warlord"],
+   "Special 2":[ true, "Razor Edge"]
+  }
+ }
+},
+{
+ "hero":"Saber",
+ "name":"Wandering Sword",
+ "role":"Assassin",
+ "release":2016,
+ "specialty":"Charge/Finisher",
+ "lane":"Jungle/Roaming",
+ "region":"Laboratory 1718",
+ "id":3,
+ "skin": {
+  "Default": {
+   "Starlight": [true, "Force Warrior"],
+   "Legend": [true, "Codename - Storm"],
+   "Elite": [true, "Fullmetal Ronin"],
+   "S.A.B.E.R": [true, "S.A.B.E.R Regulator"],
+   "Luckybox": [true, "Onimaru"],
+   "Starlight 2": [true, "Iron Hound"]
+  }
+ }
+},
+{
+ "hero":"Alice",
+ "name":"Queen of Blood",
+ "role":"Mage/Tank",
+ "release":2016,
+ "specialty":"Charge/Regen",
+ "lane":"EXP Lane/Jungle",
+ "region":"The Barren Lands",
+ "id":4,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Spirit Women"],
+   "Luckybox": [true, "Wizardry Teacher"],
+   "Special": [true, "Divine Owl"],
+   "Starlight": [true, "Steam Glider"],
+   "S29": [true, "Jade Empress"],
+   "Epic": [true, "Darknet Temptress"]
+  }
+ }
+},
+{
+ "hero":"Nana",
+ "name":"Sweet Leonin",
+ "role":"Mage",
+ "release":2016,
+ "specialty":"Poke/Burst",
+ "lane":"Mid Lane",
+ "region":"Azrya Woodlands",
+ "id":5,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Clockwork Maid"],
+   "S1": [true, "Graveyard Party"],
+   "Elite 2": [true, "Slumber Party"],
+   "MPL": [true, "Wind Fairy"],
+   "Epic": [true, "Mecha Baby"],
+   "Summer": [true, "Sundress"],
+   "Collector": [true, "Aqua Pura"],
+   "Starlight": [true, "Cyclone Clash"],
+   "Mistbender": [true, "Mistbender Nana"]
+  }
+ }
+},
+{
+ "hero":"Tigreal",
+ "name":"Warrior of Dawn",
+ "role":"Tank",
+ "release":2016,
+ "specialty":"Crowd Control",
+ "lane":"Roaming",
+ "region":"Moniyan Empire",
+ "id":6,
+ "skin":{
+  "Default":{
+   "Lightborn": [true, "Lightborn - Defender"],
+   "Special": [true, "Gold Baron"],
+   "Starlight": [true, "Galactic Marshal"],
+   "Special 2": [true, "Pasha of Justice"]
+  }
+ }
+},
+{
+ "hero":"Alucard",
+ "name":"Demon Hunter",
+ "role":"Fighter/Assassin",
+ "release":2016,
+ "specialty":"Chase/Damage",
+ "lane":"Jungle",
+ "region":"Moniyan Empire",
+ "id":7,
+ "skin":{
+  "Default":{
+   "S2": [true, "Fiery Inferno"],
+   "Luckybox": [true, "Child of the Fall"],
+   "Starlight": [true, "Viscount"],
+   "Valentine": [true, "Romantic Fantasy"],
+   "Legend": [true, "Obsidian Blade"],
+   "Lightborn": [true, "Lightborn - Striker"],
+   "Star Wars": [true, "Obi-Wan Kenobi"],
+   "Special": [true, "Demon's Bane"]
+  }
+ }
+},
+{
+ "hero":"Karina",
+ "name":"Shadow Blade",
+ "role":"Assassin",
+ "release":2016,
+ "specialty":"Finisher/Magic Damage",
+ "lane":"Jungle",
+ "region":"Azrya Woodlands",
+ "id":8,
+ "skin":{
+  "Default":{
+   "Christmas": [true, "Christmas Carnival"],
+   "Starlight": [true, "Black Pearl"],
+   "Luckybox": [true, "Doom Duelist"],
+   "KOF": [true, "Leona"],
+   "Zodiac": [true, "Gemini - Halo"]
+  }
+ }
+},
+{
+ "hero":"Akai",
+ "name":"Panda Warrior",
+ "role":"Tank",
+ "release":2016,
+ "specialty":"Guard/Crowd Control",
+ "lane":"Roaming",
+ "region":"Cadia Riverlands",
+ "id":9,
+ "skin":{
+  "Default":{
+   "Summer": [true, "Summer Party"],
+   "Elite": [true, "Monk"],
+   "Starlight": [true, "Akazonae Samurai"],
+   "Luckybox": [true, "Imperial Assasin"],
+   "Elite 2": [true, "Stream Recluse"],
+   "S19": [true, "Street Enforcer"],
+   "Kungfu Panda": [true, "Kung Fu Panda"],
+   "Halloween": [true, "Pumpkin Brawler"],
+   "Anniversary 8th": [true, "Marvelous Maestro"]
+  }
+ }
+},
+{
+ "hero":"Franco",
+ "name":"Frozen Warrior",
+ "role":"Tank",
+ "release":2016,
+ "specialty":"Initiator/Control",
+ "lane":"Roaming",
+ "region":"Northern Vale",
+ "id":10,
+ "skin":{
+  "Default":{
+   "Special": [true, "Masterchef"],
+   "Starlight": [true, "Apocalypse"],
+   "S9": [true, "Locomotive"],
+   "Halloween": [true, "Wheatfield Nightmare"],
+   "Luckybox": [true, "Valhalla Ruler"],
+   "Blazing": [true, "Blazing Axe"],
+   "Basic": [true, "Bone Cluster"],
+   "Legend": ["https://www.mediafire.com/file/8qrfljks2hltg7v/Zyvoid_x_Franco_Legend.zip/file", "King of Hell"],
+   "MPL": [true, "Quantum Vanguard"]
+  }
+ }
+},
+{
+ "hero":"Bane",
+ "name":"Frozen King",
+ "role":"Fighter/Mage",
+ "release":2016,
+ "specialty":"Push/Burst",
+ "lane":"Jungle/EXP Lane",
+ "region":"Northern Vale",
+ "id":11,
+ "skin":{
+  "Default":{
+   "Epic": [true, "Castle Master"],
+   "Basic": [true, "Deep Sea Monster"],
+   "S11": [true, "Warlord"],
+   "Elite": [true, "Underworld Outlaw"],
+   "Epic 2": [true, "Soul Defiler"]
+  }
+ }
+},
+{
+ "hero":"Bruno",
+ "name":"Protector",
+ "role":"Marksman",
+ "release":2016,
+ "specialty":"Finisher/Burst",
+ "lane":"Gold Lane",
+ "region":"Agelta Drylands",
+ "id":12,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Vanguard Elite"],
+   "Special": [true, "Best Dj"],
+   "Elite 2": [true, "Street Football"],
+   "Special 2": [true, "The Falcon"],
+   "Dawning": [true, "Firebolt"],
+   "Starlight": [true, "Street Hype"],
+   "Neymar Jr": [true, "Halo Striker"],
+   "Neymar Jr 2": [true, "Neymar Jr"],
+   "Collector": [true, "The Purifier"]
+  }
+ }
+},
+{
+ "hero":"Clint",
+ "name":"West Justice",
+ "role":"Marksman",
+ "release":2016,
+ "specialty":"Finisher/Burst",
+ "lane":"Gold Lane",
+ "region":"Agelta Drylands",
+ "id":13,
+ "skin":{
+  "Default":{
+   "Summer": [true, "Sun n Sand"],
+   "Valentine": [true, "Gun and Roses"],
+   "Starlight": [true, "Rock and Roll"],
+   "Special": [true, "Badminton Champion"],
+   "S15": [true, "Witch Hunter"],
+   "M2": [true, "Shadow Omem"],
+   "Starlight 2": [true, "Operator CL"],
+   "Collector": [true, "Crimson Blast"],
+   "Epic": [true, "Captain of the Reefs"],
+   "Mythic 2024": [true, "Drago'n Maw"]
+  }
+ }
+},
+{
+ "hero":"Rafaela",
+ "name":"Wings of Holiness",
+ "role":"Support",
+ "release":2016,
+ "specialty":"Regen/Guard",
+ "lane":"Roaming",
+ "region":"Moniyan Empire",
+ "id":14,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Fertility Goddess"],
+   "Epic": [true, "Flower Fairy"],
+   "MPL": [true, "Biomedic"],
+   "S.A.B.E.R": [true, "S.A.B.E.R. Savior"],
+   "S18": [true, "Star Chaser"],
+   "Christmas": [true, "Angelic Sonata"],
+   "AS": [true, "Seraphic Selfi"],
+   "Lunar Fest": [true, "Bloom of Abundance"]
+  }
+ }
+},
+{
+ "hero":"Eudora",
+ "name":"Lightning Weaver",
+ "role":"Mage",
+ "release":2016,
+ "specialty":"Control/Burst",
+ "lane":"Mid Lane",
+ "region":"Northern Vale",
+ "id":15,
+ "skin":{
+  "Default":{
+   "Basic": [true, "Flame Red Lips"],
+   "Christmas": [true, "Christmas Carnival"],
+   "Luckybox": [true, "Emerald Enchantress"],
+   "Limited": [true, "Vivo Selfie Goddess"],
+   "S16": [true, "Countess Scar"],
+   "Starlight": [true, "Cosmic Voyage"],
+   "Atomic": [true, "Atomic Pop Eudora"]
+  }
+ }
+},
+{
+ "hero":"Zilong",
+ "name":"Spear of Dragon",
+ "role":"Fighter/Assassin",
+ "release":2016,
+ "specialty":"Chase/Damage",
+ "lane":"EXP Lane",
+ "region":"Cadia Riverlands",
+ "id":16,
+ "skin":{
+  "Default":{
+   "Epic": [true, "Glorious General"],
+   "Starlight": [true, "Eastern Warrior"],
+   "Elite": [true, "Blazing Lancer"],
+   "Luckybox": [true, "Changbanpo Commander"],
+   "Christmas": [true, "Christmas Carnival"],
+   "Basic": [true, "Royal Spear"],
+   "Summer": [true, "Summer Waves"],
+   "Collector": [true, "Empyrean Paladin"],
+   "515": [true, "Storm Rider"],
+   "Lunar Fest": [true, "Dragon of Prosperity"]
+  }
+ }
+},
+{
+ "hero":"Fanny",
+ "name":"Blade Dancer",
+ "role":"Assassin",
+ "release":2016,
+ "specialty":"Chase/Finisher",
+ "lane":"Jungle",
+ "region":"Moniyan Empire",
+ "id":17,
+ "skin":{
+  "Default":{
+   "Luckybox": [true, "Skylark"],
+   "Starlight": [true, "Royal Cavalry"],
+   "Summer": [true, "Lifeguard"],
+   "Summer REVAMP": [true, "Lifeguard"],
+   "Lightborn": [true, "Lightborn - Ranger"],
+   "Christmas": [true, "Christmas Carnival"],
+   "Aspirants": [true, "Blade of Kibou"],
+   "Valentine": [true, "Heart Afloat"],
+   "Attack on Titan": [true, "Mikasa"]
+  },
+  "Elite":{
+   "Luckybox": [true, "Skylark"],
+   "Summer": [true, "Lifeguard"],
+   "Lightborn": [true, "Lightborn - Ranger"],
+   "Aspirants": [true, "Blade of Kibou"],
+   "Valentine": [true, "Heart Afloat"],
+   "Attack on Titan": [true, "Mikasa"]
+  },
+  "S3":{
+   "Luckybox": [true, "Skylark"],
+   "Summer": [true, "Lifeguard"],
+   "Lightborn": [true, "Lightborn - Ranger"],
+   "Aspirants": [true, "Blade of Kibou"],
+   "Valentine": [true, "Heart Afloat"],
+   "Attack on Titan": [true, "Mikasa"]
+  },
+  "Starlight":{
+   "Luckybox": [true, "Skylark"],
+   "Summer": [true, "Lifeguard"],
+   "Lightborn": [true, "Lightborn - Ranger"],
+   "Aspirants": [true, "Blade of Kibou"],
+   "Valentine": [true, "Heart Afloat"],
+   "Attack on Titan": [true, "Mikasa"]
+  }
+ }
+},
+{
+ "hero":"Layla",
+ "name":"Energy Gunner",
+ "role":"Marksman",
+ "release":2016,
+ "specialty":"Finisher/Damage",
+ "lane":"Gold Lane",
+ "region":"Agelta Drylands",
+ "id":18,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Bunny Babe"],
+   "Valentine": [true, "Cannon and Roses"],
+   "Basic 2": [true, "Blue Spectre"],
+   "S.A.B.E.R": [true, "S.A.B.E.R Breacher"],
+   "Blazing": [true, "Blazing Gun"],
+   "Aspirants": [true, "Miss Hikari"],
+   "Starlight 2": [true, "Twilight Waitz"],
+   "Collector": [true, "Paranormal Operative"]
+  }
+ }
+},
+{
+ "hero":"Minotaur",
+ "name":"Son of Minos",
+ "role":"Tank/Support",
+ "release":2016,
+ "specialty":"Crowd Control",
+ "lane":"Roaming",
+ "region":"Agelta Drylands",
+ "id":19,
+ "skin":{
+  "Default":{
+   "S4": [true, "Orbiter"],
+   "Zodiac": [true, "Taurus"],
+   "Special": [true, "Dreadnought"]
+  }
+ }
+},
+{
+ "hero":"Lolita",
+ "name":"Steel Elf",
+ "role":"Support/Tank",
+ "release":2016,
+ "specialty":"Guard/Crowd Control",
+ "lane":"Roaming",
+ "region":"Agelta Drylands",
+ "id":20,
+ "skin":{
+  "Default":{
+   "Halloween": [true, "Impish Trickster"],
+   "Lunar Fest": [true, "Lion Dance"],
+   "Special": [true, "Genki Slam"],
+   "Rising": [true, "Starwatcher"],
+   "Special 2": [true, "Astro Mal"]
+  }
+ }
+},
+{
+ "hero":"Hayabusa",
+ "name":"Crimson Shadow",
+ "role":"Assassin",
+ "release":2016,
+ "specialty":"Chase/Burst",
+ "lane":"Jungle",
+ "region":"Cadia Riverlands",
+ "id":21,
+ "skin":{
+  "Default":{
+   "Summer": [true, "Sushi Summer"],
+   "Starlight Gold": [true, "Experiment 21"],
+   "Luckybox": [true, "Shadow of Obscurity"],
+   "Starlight": [true, "Biological Weapon"],
+   "11.11": [true, "Shura"],
+   "Exorcist": [true, "Exorcist Hayabusa"],
+   "Naruto": [true, "Kakashi Hatake"],
+   "Custom Itachi": [true, "Custom Itachi"],
+   "Custom Minato": [true, "Custom Minato"]
+  }
+ }
+},
+{
+ "hero":"Freya",
+ "name":"Valkyrie",
+ "role":"Fighter",
+ "release":2016,
+ "specialty":"Chase/Damage",
+ "lane":"EXP Lane/Jungle",
+ "region":"Northern Vale",
+ "id":22,
+ "skin":{
+  "Default":{
+   "Starlight": [null, "Dragon Hunter"],
+   "Summer": [null, "Beach Sweetheart"],
+   "Luckybox": [true, "War Angel"],
+   "Christmas": [null, "Christmas Carnival"],
+   "Epic": [true, "Raven Shogun"],
+   "S.A.B.E.R": [true, "S.A.B.E.R Manhunter"],
+   "Legend": ["https://www.mediafire.com/file/bxmymuzsk1ed9gw/Zyvoid_x_Freya_Legend.zip/file", "Galactic Vanquisher"]
+  }
+ }
+},
+{
+ "hero":"Gord",
+ "name":"Professor of the Mystic",
+ "role":"Mage",
+ "release":2016,
+ "specialty":"Poke/Burst",
+ "lane":"Mid Lane",
+ "region":"Nebula Chronorift",
+ "id":23,
+ "skin":{
+  "Default":{
+   "Christmas": [true, "Christmas Carnival"],
+   "Legend": [true, "Conqueror"],
+   "Starlight Gold": [true, "No.1 Controller"],
+   "Epic": [true, "Cyber Hacker"],
+   "Starlight": [true, "Imperator Vitalis"]
+  }
+ }
+},
+{
+ "hero":"Natalia",
+ "name":"Bright Claw",
+ "role":"Assassin",
+ "release":2016,
+ "specialty":"Chase/Finisher",
+ "lane":"Roaming/Jungle",
+ "region":"Moniyan Empire",
+ "id":24,
+ "skin":{
+  "Default":{
+   "Starlight": [null, "Phantom Dancer"],
+   "Special": [true, "Midnight Raven"],
+   "Special 2": [null, "Grim Strangler"],
+   "Create": [true, "Cyber Spectre"],
+   "Collector": [true, "Warrioress Paragon"]
+  }
+ }
+},
+{
+ "hero":"Kagura",
+ "name":"Onmyouji Master",
+ "role":"Mage",
+ "release":2016,
+ "specialty":"Poke/Finisher",
+ "lane":"Mid Lane",
+ "region":"Cadia Riverlands",
+ "id":25,
+ "skin":{
+  "Default":{
+   "Special": [true, "Cherry Witch"],
+   "Summer": [true, "Summer Festival"],
+   "Luckybox": [true, "Dragon Maiden"],
+   "Starlight": [true, "Rainy Walk"],
+   "Starlight Gold": ["https://www.mediafire.com/file/3vmke02h1xd56oy/Zyvoid_x_Kagura_Starlight_Gold.zip/file", "Water Lily"],
+   "Exorcist": [true, "Exorcist Kagura"],
+   "Clouds": ["https://www.mediafire.com/file/6q25p1m00i79rgn/Zyvoid_x_Kagura_Clouds.zip/file", "Beyond the Clouds Kagura"],
+   "Epic": [true, "Jade Blossom"]
+  }
+ }
+},
+{
+ "hero":"Chou",
+ "name":"Kung Fu Boy",
+ "role":"Fighter",
+ "release":2016,
+ "specialty":"Chase/Control",
+ "lane":"EXP Lane/Roaming",
+ "region":"Eruditio",
+ "id":26,
+ "skin":{
+  "Default":{
+   "Luckybox": [true, "Dragon Boy"],
+   "Special": [true, "Furious Tiger"],
+   "KOF": [true, "Iori Yagami"],
+   "Starlight": [true, "Go Ballistic"],
+   "Dawning": [true, "Thunderfist"],
+   "S.T.U.N": [true, "S.T.U.N Chou"],
+   "Saint Seiya": [true, "Dragon Shiryu"],
+   "Saint Seiya Gold": [true, "Libra Shiryu"],
+   "Champion": [true, "ECHO"],
+   "Custom Sanji": [true, "Sanji"],
+   "Custom Portgas Ace": [true, "Portgas Ace"]
+  }
+ }
+},
+{
+ "hero":"Sun",
+ "name":"Monkey King",
+ "role":"Fighter",
+ "release":2016,
+ "specialty":"Push/Damage",
+ "lane":"EXP Lane/Jungle",
+ "region":"Cadia Riverlands",
+ "id":27,
+ "skin":{
+  "Default":{
+   "Special": [null, "Rock Star"],
+   "Special 2": [null, "Street Legend"],
+   "Starlight": [true, "Simian Curse"],
+   "Lunar Fest": [true, "Spring Blessings"],
+   "Collector": ["https://www.mediafire.com/file/zyhk01rtat2zotf/Zyvoid_x_Sun_Collector.zip/file", "Wicked Flames"],
+   "Custom Naruto": [true, "Naruto"]
+  }
+ }
+},
+{
+ "hero":"Alpha",
+ "name":"Blade of Enmity",
+ "role":"Fighter",
+ "release":2017,
+ "specialty":"Charge/Damage",
+ "lane":"Jungle/EXP Lane",
+ "region":"Agelta Drylands",
+ "id":28,
+ "skin":{
+  "Default":{
+   "Luckybox": [true, "Onimusha Commander"],
+   "Special": [true, "Crimson Warrior"],
+   "Abyss": [true, "General Void"],
+   "Starlight": [true, "Star Enforcer"],
+   "Collector": [true, "Mecha-King Perseus"],
+   "Legend": [true, "Revenant of Roses"]
+  },
+  "Basic": {
+   "Luckybox": [null, "Onimusha Commander"],
+   "Special": [null, "Crimson Warrior"],
+   "Abyss": [null, "General Void"],
+   "Starlight": [true, "Star Enforcer"],
+   "Collector": [true, "Mecha-King Perseus"],
+   "Legend": [true, "Revenant of Roses"]
+  }
+ }
+},
+{
+ "hero":"Ruby",
+ "name":"Little Red Hood",
+ "role":"Fighter",
+ "release":2017,
+ "specialty":"Crowd Control/Regen",
+ "lane":"EXP Lane",
+ "region":"Moniyan Empire",
+ "id":29,
+ "skin":{
+  "Default":{
+   "Luckybox": [true, "Lady Zombie"],
+   "Starlight": [true, "Pirate Parrot"],
+   "Collector": [true, "Prismatic Plume"],
+   "Aspirants": [true, "Mecha Maiden"],
+   "Special": [true, "Soul Reaper"],
+   "Golden Month": [true, "Crescent Dervish"],
+   "Golden Month 2": [true, "Neon Edge"]
+  }
+ }
+},
+{
+ "hero":"Yi Sun-shin",
+ "name":"Paenlong Legend",
+ "role":"Assassin/Marksman",
+ "release":2017,
+ "specialty":"Finisher/Chase",
+ "lane":"Jungle/Gold Lane",
+ "region":"Cadia Riverlands",
+ "id":30,
+ "skin":{
+  "Default":{
+   "Collector": [true, "Astral Wanderer"],
+   "Starlight": [true, "Azure Sentry"],
+   "Epic": [true, "Fleet Warden"]
+  }
+ }
+},
+{
+ "hero":"Moskov",
+ "name":"Spear of Quiescence",
+ "role":"Marksman",
+ "release":2017,
+ "specialty":"Finisher/Chase",
+ "lane":"Gold Lane",
+ "region":"Agelta Drylands",
+ "id":31,
+ "skin":{
+  "Default":{
+   "Starlight": [null, "Snake Eye Commander"],
+   "Special": [true, "Javelin Champion"],
+   "Luckybox": [true, "Twilight Dragon"],
+   "Elite": [true, "Decapitator"],
+   "Epic": [true, "Blood Spear"],
+   "Abyss": [true, "Doom Incarnate"],
+   "Starlight 2": [true, "Violet Spear"],
+   "Allstar": [true, "Infernal Wrymlord"]
+  }
+ }
+},
+{
+ "hero":"Johnson",
+ "name":"Wild Engine",
+ "role":"Tank/Support",
+ "release":2017,
+ "specialty":"Support/Crowd Control",
+ "lane":"Roaming",
+ "region":"Agelta Drylands",
+ "id":32,
+ "skin":{
+  "Default":{
+   "S.A.B.E.R": [true, "S.A.B.E.R. Automata"],
+   "Elite": [true, "Jeepney Racer"],
+   "Luckybox": [true, "Wreck King"],
+   "Special": [true, "Death Ride"],
+   "Transformers": [true, "Optimus Prime"],
+   "Anniversary 7th": [null, "Starblazer"],
+   "Legend": [true, "Sovereign of Realms"],
+   "Custom Mr Bean": [true, "Custom Mr Bean"]
+  }
+ }
+},
+{
+ "hero":"Cyclops",
+ "name":"Starsoul Magician",
+ "role":"Mage",
+ "release":2017,
+ "specialty":"Poke/Control",
+ "lane":"Mid Lane",
+ "region":"Nebula Chronorift",
+ "id":33,
+ "skin":{
+  "Default":{
+   "S.A.B.E.R": [true, "S.A.B.E.R. Enforcer"],
+   "Starlight": [true, "Deep Sea Rescuer"],
+   "Star Wars": [true, "Master Yoda"],
+   "Halloween": [true, "Straw Doll"],
+   "Collector": [true, "Yokai Warlock"]
+  }
+ }
+},
+{
+ "hero":"Estes",
+ "name":"Moon Elf King",
+ "role":"Support",
+ "release":2017,
+ "specialty":"Regen/Guard",
+ "lane":"Roaming",
+ "region":"Azrya Woodlands",
+ "id":34,
+ "skin":{
+  "Default":{
+   "Luckybox": [true, "Galaxy Dominator"],
+   "Special": [null, "Crow Bishop"],
+   "Dragon Tamer": [true, "Rattan Dragon"],
+   "Champion": [null, "Blacklist International"],
+   "Special 2": [null, "Arcane Magistrate"],
+   "Sparkle": [true, "SPARKLE Estes"]
+  }
+ }
+},
+{
+ "hero":"Hilda",
+ "name":"Power of Megalith",
+ "role":"Fighter/Tank",
+ "release":2017,
+ "specialty":"Damage/Regen",
+ "lane":"Roaming/EXP Lane",
+ "region":"Northern Vale",
+ "id":35,
+ "skin":{
+  "Default":{
+   "Zodiac": [true, "Aries"],
+   "Special": [true, "Bass Craze"]
+  }
+ }
+},
+{
+ "hero":"Aurora",
+ "name":"Maiden of the Glacier",
+ "role":"Mage",
+ "release":2017,
+ "specialty":"Crowd Control/Poke",
+ "lane":"Mid Lane",
+ "region":"Northern Vale",
+ "id":36,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Heartbreak Empress"],
+   "Lunar Fest": [true, "Foxy Lady"],
+   "Zodiac": [true, "Aquarius"],
+   "KOF": [true, "Kula Diamond"],
+   "Collector": [true, "Veil of the Celestials"]
+  }
+ }
+},
+{
+ "hero":"Lapu-Lapu",
+ "name":"Courageous Blade",
+ "role":"Fighter",
+ "release":2017,
+ "specialty":"Chase/Burst",
+ "lane":"EXP Lane",
+ "region":"Vonetis Sea",
+ "id":37,
+ "skin":{
+  "Default":{
+   "Special": [true, "Vulcan"],
+   "Starlight": [true, "Special Force"],
+   "Collector": [true, "Adlaw's Chosen"]
+  }
+ }
+},
+{
+ "hero":"Vexana",
+ "name":"Shimmer of Hope",
+ "role":"Mage",
+ "release":2017,
+ "specialty":"Poke/Control",
+ "lane":"Mid Lane",
+ "region":"The Barren Lands",
+ "id":38,
+ "skin":{
+  "Default":{
+   "Epic": [true, "Sanguine Rose"],
+   "Starlight": [true, "Circus Magician"],
+   "Collector": [true, "The Sun Empress"],
+   "Zenith": [true, "Twisted Fairytale"]
+  }
+ }
+},
+{
+ "hero":"Roger",
+ "name":"Dire Wolf Hunter",
+ "role":"Fighter/Marksman",
+ "release":2017,
+ "specialty":"Finisher/Burst",
+ "lane":"Jungle",
+ "region":"Moniyan Empire",
+ "id":39,
+ "skin":{
+  "Default":{
+   "Luckybox": [true, "Dr. Beast"],
+   "Starlight": [null, "Anubis"],
+   "Epic": [true, "Phantom Hunter"],
+   "Epic 2": [true, "Cyborg Werewolf"],
+   "M3": [true, "Phantom Ranger"],
+   "Prime": [true, "Fiend Hunter"],
+   "Transformers": [true, "Grimlock"]
+  }
+ }
+},
+{
+ "hero":"Karrie",
+ "name":"Lost Star",
+ "role":"Marksman",
+ "release":2017,
+ "specialty":"Finisher/Damage",
+ "lane":"Gold Lane",
+ "region":"Alaghat",
+ "id":40,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Dragon Queen"],
+   "Halloween": [true, "Jester"],
+   "Luckybox": [true, "Hawkwatch"],
+   "Epic": [true, "Gill-Girl"],
+   "Starlight Gold": [true, "Neon Lightwheel"],
+   "Epic 2": [true, "Ice Talon"],
+   "Kishin Densetsu": [true, "Breath of Naraka"]
+  }
+ }
+},
+{
+ "hero":"Gatotkaca",
+ "name":"Mighty Legend",
+ "role":"Tank/Fighter",
+ "release":2017,
+ "specialty":"Crowd Control/Burst",
+ "lane":"Roaming/EXP Lane",
+ "region":"Nebula Chronorift",
+ "id":41,
+ "skin":{
+  "Default":{
+   "Luckybox": [true, "Sentinel"],
+   "Epic": [true, "Tide Preserver"],
+   "Starlight": [true, "Nutcracker Monarch"]
+  }
+ }
+},
+{
+ "hero":"Harley",
+ "name":"Mage Genius",
+ "role":"Assassin/Mage",
+ "release":2017,
+ "specialty":"Burst/Poke",
+ "lane":"Jungle",
+ "region":"Northern Vale",
+ "id":42,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Royal Magister"],
+   "Special": [null, "Referee"],
+   "Epic": [true, "Great Inventor"],
+   "V.E.N.O.M": [true, "V.E.N.O.M. Octopus"],
+   "Collector": [true, "Dream Caster"],
+   "Special 2": [true, "Pulsar Prodigy"]
+  }
+ }
+},
+{
+ "hero":"Irithel",
+ "name":"Jungle Heart",
+ "role":"Marksman",
+ "release":2017,
+ "specialty":"Finisher/Burst",
+ "lane":"Gold Lane",
+ "region":"Azrya Woodlands",
+ "id":43,
+ "skin":{
+  "Default":{
+   "Epic": [null, "Hellfire"],
+   "Starlight": [null, "Nightarrow"],
+   "Zodiac": [true, "Sagittarius"],
+   "Luckybox": [true, "Astral Wanderer"],
+   "Ducati": [true, "Monster SP Rider"],
+   "Starlight 2": [true, "Checkered Knight"]
+  }
+ }
+},
+{
+ "hero":"Grock",
+ "name":"Fortress Titan",
+ "role":"Tank/Fighter",
+ "release":2017,
+ "specialty":"Crowd Control/Initiator",
+ "lane":"Roaming",
+ "region":"The Barren Lands",
+ "id":44,
+ "skin":{
+  "Default":{
+   "V.E.N.O.M": [true, "V.E.N.O.M. Monitor Lizard"],
+   "Starlight": [true, "Iceland Golem"],
+   "Epic": [true, "Codename: Rhino"],
+   "S24": [true, "Ancient Golem"],
+   "Special": [null, "Wasteland Psycho"]
+  }
+ }
+},
+{
+ "hero":"Argus",
+ "name":"Dark Angel",
+ "role":"Fighter",
+ "release":2017,
+ "specialty":"Charge/Burst",
+ "lane":"EXP Lane",
+ "region":"The Barren Lands",
+ "id":45,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Dark Draconic"],
+   "Elite": [true, "Catastrophe"],
+   "Star Wars": [true, "Darth Vader"],
+   "S27": [true, "Winged Nightmare"]
+  }
+ }
+},
+{
+ "hero":"Odette",
+ "name":"Swan Princess",
+ "role":"Mage",
+ "release":2017,
+ "specialty":"Burst/Poke",
+ "lane":"Mid Lane",
+ "region":"Moniyan Empire",
+ "id":46,
+ "skin":{
+  "Default":{
+   "Christmas": [true, "Christmas Carnival"],
+   "Luckybox": [true, "Mermaid Princess"],
+   "Special": [null, "Butterfly Goddess"],
+   "Zodiac": [true, "Virgo"],
+   "Lunar Fest": [true, "Auspicious Charm"],
+   "Create": [true, "Sage of the Currents"],
+   "Starlight": [true, "Wisdom of the Stars"]
+  }
+ }
+},
+{
+ "hero":"Lancelot",
+ "name":"Blade of Roses",
+ "role":"Assassin",
+ "release":2017,
+ "specialty":"Chase/Burst",
+ "lane":"Jungle",
+ "region":"Moniyan Empire",
+ "id":47,
+ "skin":{
+  "Default":{
+   "Christmas": [true, "Christmas Carnival"],
+   "Luckybox": [true, "Royal Matador"],
+   "Starlight": [true, "Dark Earl"],
+   "Zodiac": [true, "Pisces"],
+   "Epic": [true, "Floral Knight"],
+   "Dawning": [true, "Swordmaster"],
+   "Champion": [true, "Bren Esports"],
+   "Dragon Tamer": [true, "Empyrean Flame"],
+   "Elite": [true, "Marques of Blades"],
+   "Kishin Densetsu": [true, "Guardian of the Shrine"]
+  },
+  "Basic": {
+   "Luckybox": [true, "Royal Matador"],
+   "Zodiac": [true, "Pisces"],
+   "Dawning": [true, "Swordmaster"],
+   "Champion": [true, "Bren Esports"],
+   "Kishin Densetsu": [true, "Guardian of the Shrine"]
+  }
+ }
+},
+{
+ "hero":"Diggie",
+ "name":"Timekeeper",
+ "role":"Support",
+ "release":2017,
+ "specialty":"Guard/Poke",
+ "lane":"Roaming",
+ "region":"Agelta Drylands",
+ "id":48,
+ "skin":{
+  "Default":{
+   "Special": [true, "Constellation"],
+   "Epic": [true, "Fairytaler"]
+  }
+ }
+},
+{
+ "hero":"Hylos",
+ "name":"Grand Warden",
+ "role":"Tank",
+ "release":2017,
+ "specialty":"Guard/Initiator",
+ "lane":"Roaming",
+ "region":"Agelta Drylands",
+ "id":49,
+ "skin":{
+  "Default":{
+   "Epic": [true, "Iron Steed"],
+   "Elite 2": [true, "Bloodhoof Marauder"]
+  }
+ }
+},
+{
+ "hero":"Zhask",
+ "name":"King of Swarms",
+ "role":"Mage",
+ "release":2017,
+ "specialty":"Chase/Damage",
+ "lane":"Mid Lane",
+ "region":"Kastiya",
+ "id":50,
+ "skin":{
+  "Default":{
+   "Luckybox": [true, "Bone Flamen"],
+   "Zodiac": [true, "Cancer"],
+   "Special": [true, "Extraterrestrial"],
+   "Starlight": [true, "Death's Shadow"]
+  }
+ }
+},
+{
+ "hero":"Helcurt",
+ "name":"Shadowbringer",
+ "role":"Assassin",
+ "release":2017,
+ "specialty":"Push/Burst",
+ "lane":"Jungle",
+ "region":"The Barren Lands",
+ "id":51,
+ "skin":{
+  "Default":{
+   "Special": [true, "Evolved Predator"],
+   "Zodiac": [true, "Scorpio"],
+   "Starlight": [true, "Dream Prowler"],
+   "Collector": [null, "Kaiju of the Deep"]
+  }
+ }
+},
+{
+ "hero":"Pharsa",
+ "name":"Wings of Vengeance",
+ "role":"Mage",
+ "release":2017,
+ "specialty":"Burst/Poke",
+ "lane":"Mid Lane",
+ "region":"The Barren Lands",
+ "id":52,
+ "skin":{
+  "Default":{
+   "Collector": [true, "Empress Phoenix"],
+   "Special": [true, "Samba Muse"],
+   "Starlight": [true, "Peony Bloom"],
+   "MSC 2022": [true, "Hierophant"],
+   "Epic": [true, "Neon Shingetsu"],
+   "Neobeast": [true, "Neobeast Pharsa"]
+  }
+ }
+},
+{
+ "hero":"Lesley",
+ "name":"Deadly Sniper",
+ "role":"Marksman/Assassin",
+ "release":2017,
+ "specialty":"Finisher/Burst",
+ "lane":"Gold Lane",
+ "region":"Moniyan Empire",
+ "id":53,
+ "skin":{
+  "Default":{
+   "Special": [true, "Cheergunner"],
+   "Luckybox": [true, "Stellaris Ghost"],
+   "Valentine": [true, "Dangerous Love"],
+   "Legend": [true, "Angelic Agent"],
+   "Starlight": [true, "Letnal Lady"],
+   "Collector": [true, "Falcon Mistress"],
+   "Starlight Gold": [true, "Hawk-eyed Sniper"],
+   "Aspirants": [true, "Deadeye Spectre"],
+   "Fatcat": [true, "Meowskin Hunter"],
+   "Covenant": [true, "Duchess of Tides"]
+  }
+ }
+},
+{
+ "hero":"Jawhead",
+ "name":"Steel Sweetheart",
+ "role":"Fighter",
+ "release":2018,
+ "specialty":"Charge/Burst",
+ "lane":"Roaming/EXP Lane",
+ "region":"Laboratory 1718",
+ "id":54,
+ "skin":{
+  "Default":{
+   "MSC 2018": [true, "Space Explorer"],
+   "Elite": [true, "Foo Quarterback"],
+   "Special": [true, "The Nutcracker"],
+   "Collector": [true, "Samurai Mech"],
+   "Starlight": [true, "Candy Bear"],
+   "MPL": [true, "Cyber Ranger"],
+   "Dino Pals": [true, "Proto Guardian"]
+  }
+ }
+},
+{
+ "hero":"Angela",
+ "name":"Bunnylove",
+ "role":"Support",
+ "release":2018,
+ "specialty":"Guard/Support",
+ "lane":"Roaming",
+ "region":"Laboratory 1718",
+ "id":55,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Shanghai Maiden"],
+   "V.E.N.O.M": [true, "V.E.N.O.M Vespid"],
+   "Halloween": [true, "Scream Doll"],
+   "Summer": [true, "Summer Vibes"],
+   "Collector": [true, "Floral Elf"],
+   "Sanrio": [null, "Heartstring"],
+   "Aspirants": [null, "Cyber Cherubin"],
+   "Starlight Gold": [null, "Avatar of Time"],
+   "Kishin Densetsu": [null, "Strings of Fate"]
+  }
+ }
+},
+{
+ "hero":"Gusion",
+ "name":"Holy Blade",
+ "role":"Assassin",
+ "release":2018,
+ "specialty":"Burst/Magic Damage",
+ "lane":"Jungle",
+ "region":"Moniyan Empire",
+ "id":56,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Cyber Ops"],
+   "Valentine": [true, "Dangerous Liaison"],
+   "V.E.N.O.M": [true, "V.E.N.O.M Emperor Scorpipn"],
+   "KOF": [true, "K'"],
+   "Legend": [true, "Cosmic Gleam"],
+   "Collector": [true, "Night Owl"],
+   "Epic": [true, "Soul Revelation"],
+   "11.11": [true, "Dimension Walker"],
+   "Starlight 2": [true, "Dessert Spider"],
+   "Custom Minato": [true, "Custom Minato"]
+  }
+ }
+},
+{
+ "hero":"Valir",
+ "name":"Son of Flames",
+ "role":"Mage",
+ "release":2018,
+ "specialty":"Damage/Guard",
+ "lane":"Mid Lane",
+ "region":"Agelta Drylands",
+ "id":57,
+ "skin":{
+  "Default":{
+   "Special": [null, "Shikigami Sumonner"],
+   "Starlight": [null, "Dictator"],
+   "Dragon Tamer": [true, "Draconic Flame"],
+   "Collector": [true, "Demonlord"],
+   "Legend": [true, "Infernal Blaze"],
+   "Saint Seiya": [true, "Phoenix Ikki"],
+   "Saint Seiya Gold": [true, "Leo Ikki"],
+   "KOF": [null, "Kyo Kusanagi"]
+  }
+ }
+},
+{
+ "hero":"Martis",
+ "name":"Ashura King",
+ "role":"Fighter",
+ "release":2018,
+ "specialty":"Finisher/Charge",
+ "lane":"Jungle",
+ "region":"Nebula Chronorift",
+ "id":58,
+ "skin":{
+  "Default":{
+   "Starlight": [null, "Searing Maw"],
+   "Luckybox": [true, "God of War"],
+   "Zodiac": [true, "Capricorn"],
+   "Special": [true, "Deathrock"],
+   "Attack on Titan": [true, "Levi"],
+   "Starlight 2": [true, "Darkwater Terror"]
+  }
+ }
+},
+{
+ "hero":"Uranus",
+ "name":"Aesthereal Defender",
+ "role":"Tank",
+ "release":2018,
+ "specialty":"Regen",
+ "lane":"EXP Lane",
+ "region":"Celestial Palace",
+ "id":59,
+ "skin":{
+  "Default":{
+   "Rising": [null, "Mecha Protector"],
+   "Luckybox": [true, "Video-Game Dominator"],
+   "Special": [true, "Pinball Machine"],
+   "Epic": [true, "Celestial Bastion"]
+  }
+ }
+},
+{
+ "hero":"Hanabi",
+ "name":"Scarlet Flower",
+ "role":"Marksman",
+ "release":2018,
+ "specialty":"Finisher/Damage",
+ "lane":"Gold Lane",
+ "region":"Cadia Riverlands",
+ "id":60,
+ "skin":{
+  "Default":{
+   "V.E.N.O.M": [true, "V.E.N.O.M Nephila"],
+   "Starlight": [null, "Fiery Moth"],
+   "Luckybox": [true, "Rakshesha"],
+   "Special": [true, "Field Op"],
+   "Collector": [true, "Riverland Phoenix"],
+   "Allstar": [true, "Moonlit Ninja"],
+   "Soul Vessel": [true, "Vessel of Rage"],
+   "Custom Ino Yamanaka": [true, "Custom Ino"]
+  }
+ }
+},
+{
+ "hero":"Chang'e",
+ "name":"Moon Palace Immortal",
+ "role":"Mage",
+ "release":2018,
+ "specialty":"Poke/Burst",
+ "lane":"Mid Lane",
+ "region":"Cadia Riverlands",
+ "id":61,
+ "skin":{
+  "Default":{
+   "Special": [null, "Floral Elfo"],
+   "Luckybox": [true, "Lunar Magic"],
+   "Starlight": [true, "Strawberry Parfait"],
+   "Epic": [true, "Vine Cradle"],
+   "Sanrio": [true, "Moon Artist"],
+   "Lunar Fest": [true, "New Moon"],
+   "Aspirants": [true, "Tech Tensai"],
+   "Special 2": [null, "Moonglow Troupe"]
+  }
+ }
+},
+{
+ "hero":"Kaja",
+ "name":"Nazar King",
+ "role":"Support/Fighter",
+ "release":2018,
+ "specialty":"Control/Charge",
+ "lane":"Roaming",
+ "region":"Celestial Palace",
+ "id":62,
+ "skin":{
+  "Default":{
+   "Starlight": [null, "Kaminari"],
+   "Luckybox": [true, "Skyblocker"],
+   "Epic": [true, "Inferno Taskmaster"]
+  }
+ }
+},
+{
+ "hero":"Selena",
+ "name":"Abyssal Witch",
+ "role":"Assassin/Mage",
+ "release":2018,
+ "specialty":"Initiator/Finisher",
+ "lane":"Roaming/Mid Lane",
+ "region":"The Barren Lands",
+ "id":63,
+ "skin":{
+  "Default":{
+   "Epic": [true, "Virus"],
+   "Zodiac": ["https://www.mediafire.com/file/exz8p0ze2fvxib9/Zyvoid_x_Selena_Zodiac.zip/file", "Gemini - Shadow"],
+   "Starlight": [true, "Double Identity"],
+   "Luckybox": [true, "Thunder Flash"],
+   "S.T.U.N": [true, "S.T.U.N Selena"],
+   "Abyss": [true, "Lady Vengeance"],
+   "Zenith": ["https://www.mediafire.com/file/q9cotakj70i01jc/Zyvoid_x_Selena_Zenith.zip/file", "Curse of Cinder"],
+   "Epic - Upcoming": [true, "Curse of Cinder"]
+  }
+ }
+},
+{
+ "hero":"Aldous",
+ "name":"Soul Contractor",
+ "role":"Fighter",
+ "release":2018,
+ "specialty":"Burst/Support",
+ "lane":"EXP Lane",
+ "region":"Agelta Drylands",
+ "id":64,
+ "skin":{
+  "Default":{
+   "Starlight": [null, "The Insentient"],
+   "M1": [true, "King of Supremacy"],
+   "Blazing": [true, "Blazing Force"],
+   "Collector": [true, "Realm Watcher"],
+   "Transformers": [true, "Starscream"],
+   "Mistbender": [true, "Mistbender Aldous"],
+   "Custom Saitama": [true, "Custom Saitama"]
+  }
+ }
+},
+{
+ "hero":"Claude",
+ "name":"Master Thief",
+ "role":"Marksman",
+ "release":2018,
+ "specialty":"Burst/Chase",
+ "lane":"Gold Lane",
+ "region":"Los Pecados",
+ "id":65,
+ "skin":{
+  "Default":{
+   "Starlight": [null, "Plunderous Pirate"],
+   "Luckybox": [true, "Mecha Dragon"],
+   "Summer": [true, "Lifeguard"],
+   "Christmas": [true, "Christmas Carnival"],
+   "MSC 2021": [true, "Earth's Mightiest"],
+   "Blazing": [true, "Blazing Trace"],
+   "Sanrio": [true, "Bad Bro"],
+   "Valentine": [true, "Heart Aflame"],
+   "M6": [true, "Challenger's Spark"],
+   "Prime": [true, "Cosmic Blaze"]
+  }
+ }
+},
+{
+ "hero":"Vale",
+ "name":"Windtalker",
+ "role":"Mage",
+ "release":2019,
+ "specialty":"Burst/Crowd Control",
+ "lane":"Mid Lane",
+ "region":"Agelta Drylands",
+ "id":66,
+ "skin":{
+  "Default":{
+   "Dawning": [true, "Blizzard Storm"],
+   "Starlight": [true, "Soaring Devata"],
+   "Collector": [true, "Supernal Tempest"],
+   "Epic": [true, "Keeper of the Winds"],
+   "Starlight Gold": [true, "Concerto of Light"],
+   "Naruto": [true, "Gaara"]
+  }
+ }
+},
+{
+ "hero":"Leomord",
+ "name":"Sworn Sword",
+ "role":"Fighter",
+ "release":2018,
+ "specialty":"Chase/Burst",
+ "lane":"Jungle",
+ "region":"The Barren Lands",
+ "id":67,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Frostborn Paladin"],
+   "MSC 2019": [true, "Triumph - Eagle"],
+   "Luckybox": ["https://www.mediafire.com/file/7x67txyngsv5c8s/Zyvoid_x_Leomord_Luckybox.zip/file", "Inferno Soul"],
+   "Halloween": [true, "Jack-o'-lantern"],
+   "Abyss": [true, "Shadow Knight"],
+   "Ducati": [true, "Diavel V4 Rider"],
+   "Epic": [true, "Nightmare Count"]
+  }
+ }
+},
+{
+ "hero":"Lunox",
+ "name":"Twilight Goddes",
+ "role":"Mage",
+ "release":2018,
+ "specialty":"Burst/Damage",
+ "lane":"Mid Lane",
+ "region":"Agelta Drylands",
+ "id":68,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Ash Blossom"],
+   "Zodiac": [true, "Libra"],
+   "Luckybox": [true, "Butterfly Seraphim"],
+   "Epic": [true, "Eyes of Eternity"],
+   "Epic 2": [true, "Dawn Revelation"],
+   "Legend": ["https://www.mediafire.com/file/0ztay4lw3f3lvyy/Zyvoid_x_Lunox_Legend.zip/file", "Divine Goddess"]
+  }
+ }
+},
+{
+ "hero":"Hanzo",
+ "name":"Akuma Ninja",
+ "role":"Assassin",
+ "release":2018,
+ "specialty":"Burst/Poke",
+ "lane":"Jungle",
+ "region":"Cadia Riverlands",
+ "id":69,
+ "skin":{
+  "Default":{
+   "Special": [true, "Insidious Tutor"],
+   "Collector": [true, "Soulfire Netherlord"]
+  }
+ }
+},
+{
+ "hero":"Belerick",
+ "name":"Guard of Nature",
+ "role":"Tank",
+ "release":2018,
+ "specialty":"Crowd Control/Regen",
+ "lane":"Roaming",
+ "region":"Agelta Drylands",
+ "id":70,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Torch Guardian"],
+   "Special": [true, "The Deep One"],
+   "Special 2": [true, "Emerald Guardian"],
+   "Epic": [true, "Arbiter of Stars"]
+  }
+ }
+},
+{
+ "hero":"Kimmy",
+ "name":"Hoverjet Outrider",
+ "role":"Marksman/Mage",
+ "release":2018,
+ "specialty":"Damage/Magic Damage",
+ "lane":"Gold Lane/Mid Lane",
+ "region":"Eruditio",
+ "id":71,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Bio Frontier"],
+   "Luckybox": [true, "Astrocat"],
+   "Special": [null, "Charge Leader"],
+   "Dragon Tamer": [true, "Frost Wing"],
+   "Star Wars": [true, "First Order Jet Trooper"],
+   "Special 2": [null, "Rising Nova"]
+  }
+ }
+},
+{
+ "hero":"Thamuz",
+ "name":"Lord Lava",
+ "role":"Fighter",
+ "release":2018,
+ "specialty":"Chase/Damage",
+ "lane":"EXP Lane",
+ "region":"The Barren Lands",
+ "id":72,
+ "skin":{
+  "Default":{
+   "Special": [true, "Abyssal Reaper"],
+   "Kungfu Panda": [true, "General Kai"],
+   "Starlight": [true, "Sanctified Flame"]
+  }
+ }
+},
+{
+ "hero":"Harith",
+ "name":"Time Traveler",
+ "role":"Mage",
+ "release":2018,
+ "specialty":"Chase/Damage",
+ "lane":"Mid Lane/Gold Lane",
+ "region":"Moniyan Empire",
+ "id":73,
+ "skin":{
+  "Default":{
+   "515": [true, "Fashion Expert"],
+   "Lightborn": [true, "Lightborn - Inspirer"],
+   "Champion": [true, "EVOS Legend"],
+   "Collector": [true, "Psychic"],
+   "Christmas": [true, "Christmas Carnival"],
+   "Hunter x Hunter": [true, "Killua"]
+  }
+ }
+},
+{
+ "hero":"Minsitthar",
+ "name":"Courageous Warrior",
+ "role":"Fighter",
+ "release":2018,
+ "specialty":"Initiator/Crowd Control",
+ "lane":"EXP Lane/Roaming",
+ "region":"Vonetis Sea",
+ "id":74,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "War Lion"],
+   "Collector": [true, "Sol Invictus"]
+  }
+ }
+},
+{
+ "hero":"Kadita",
+ "name":"Ocean Goddes",
+ "role":"Mage/Assassin",
+ "release":2018,
+ "specialty":"Burst/Charge",
+ "lane":"Mid Lane",
+ "region":"Vonetis Sea",
+ "id":75,
+ "skin":{
+  "Default":{
+   "Special": [true, "White Robin"],
+   "MPL": [true, "Hydromancer"],
+   "Create": [true, "Heart of the Sea"],
+   "Starlight": [true, "Maiden of the Tide"]
+  }
+ }
+},
+{
+ "hero":"Faramis",
+ "name":"Soul Binder",
+ "role":"Support/Mage",
+ "release":2019,
+ "specialty":"Guard/Charge",
+ "lane":"Mid Lane",
+ "region":"The Barren Lands",
+ "id":76,
+ "skin":{
+  "Default":{
+   "Summer": [true, "Summer Spark"],
+   "Mythic 2023": [true, "Infernal Magister"]
+  }
+ }
+},
+{
+ "hero":"Badang",
+ "name":"Tribal Warrior",
+ "role":"Fighter",
+ "release":2019,
+ "specialty":"Charge/Burst",
+ "lane":"EXP Lane",
+ "region":"Vonetis Sea",
+ "id":77,
+ "skin":{
+  "Default":{
+   "Special": [null, "Susanoo"],
+   "Zodiac": [true, "Leo"],
+   "Collector": [true, "Fist of Zen"],
+   "Saint Seiya": [true, "Pegasus Seiya"],
+   "Saint Seiya Gold": [true, "Sagittarius Seiya"],
+   "Custom Uchiha Madara": [true, "Custom Madara"]
+  }
+ }
+},
+{
+ "hero":"Khufra",
+ "name":"Dessert Tyrant",
+ "role":"Tank",
+ "release":2019,
+ "specialty":"Initiator/Crowd Control",
+ "lane":"Roaming",
+ "region":"Agelta Drylands",
+ "id":78,
+ "skin":{
+  "Default":{
+   "Valentine": [true, "Gentleman Thief"],
+   "Collector": [true, "Volcanic Overlord"],
+   "Starlight": [true, "Dreadful Clown"],
+   "Custom Epic": [true, "Cursed Scroll"]
+  }
+ }
+},
+{
+ "hero":"Granger",
+ "name":"Death Chanter",
+ "role":"Marksman",
+ "release":2019,
+ "specialty":"Burst/Finisher",
+ "lane":"Gold Lane",
+ "region":"Moniyan Empire",
+ "id":79,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Biosoldier"],
+   "Lightborn": [true, "Lightborn - Overrider"],
+   "Collector": [true, "Agent Z"],
+   "Legend": [true, "Starfall Knight"],
+   "Transformers": [true, "Megatron"],
+   "Create": [true, "Hellbringer"],
+   "Exorcist": [true, "Exorcist Granger"],
+   "Valentine": [true, "Alluring Enigma"]
+   },
+  "Basic": {
+   "Lightborn": [true, "Lightborn - Overrider"],
+   "Collector": [true, "Agent Z"],
+   "Legend": [true, "Starfall Knight"],
+   "Transformers": [true, "Megatron"]
+   }
+  }
+ },
+{
+ "hero":"Guinevere",
+ "name":"Ms. Violet",
+ "role":"Fighter",
+ "release":2019,
+ "specialty":"Burst/Magic Damage",
+ "lane":"EXP Lane",
+ "region":"Moniyan Empire",
+ "id":80,
+ "skin":{
+  "Default":{
+   "KOF": [true, "Athena Asamiya"],
+   "Starlight": [true, "Lotus"],
+   "Special": [true, "Amethyst Dance"],
+   "Luckybox": [true, "Lady Crane"],
+   "Special 2": [true, "Sakura Wishes"],
+   "Summer": [true, "Summer Breeze"],
+   "Legend": [true, "Psion of Tomorrow"],
+   "Custom Hinata": [true, "Custom Hinata"]
+  }
+ }
+},
+{
+ "hero":"Esmeralda",
+ "name":"Astrologer",
+ "role":"Tank/Mage",
+ "release":2019,
+ "specialty":"Regen/Mixed Damage",
+ "lane":"EXP Lane",
+ "region":"Agelta Drylands",
+ "id":81,
+ "skin":{
+  "Default":{
+   "Valentine": [true, "Lady Thief"],
+   "Starlight": [true, "Cleopatra"],
+   "Blazing": [true, "Blazing Shadow"],
+   "Dawning": [true, "The Foreseer"],
+   "Collector": [true, "Light Envoy"],
+   "AS 2024": [true, "Astral Muse"]
+  }
+ }
+},
+{
+ "hero":"Terizla",
+ "name":"Executioner",
+ "role":"Fighter/Tank",
+ "release":2019,
+ "specialty":"Burst/Crowd Control",
+ "lane":"EXP Lane",
+ "region":"The Barren Lands",
+ "id":82,
+ "skin":{
+  "Default":{
+   "Special": [null, "Hammer Giant"],
+   "Epic": [true, "Flames of Judgement"],
+   "Collector": [true, "Soulblight Tyrant"]
+  }
+ }
+},
+{
+ "hero":"X.Borg",
+ "name":"Firaga Armor",
+ "role":"Fighter",
+ "release":2019,
+ "specialty":"Regen/Burst",
+ "lane":"EXP Lane",
+ "region":"Agelta Drylands",
+ "id":83,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Graffiti Fashion"],
+   "11.11": [true, "Tesla Maniac"],
+   "Transformers": [true, "Bumblebee"],
+   "MCGG": [true, "Pecados Rioter"]
+  }
+ }
+},
+{
+ "hero":"Ling",
+ "name":"Cyan Finch",
+ "role":"Assassin",
+ "release":2019,
+ "specialty":"Chase/Burst",
+ "lane":"Jungle",
+ "region":"Cadia Riverlands",
+ "id":84,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Street Punk"],
+   "Dragon Tamer": [true, "Night Shade"],
+   "Special": [true, "Cosmo Guard"],
+   "Collector": [true, "Serene Plume"],
+   "Mworld": [true, "M-World Ling"],
+   "Kungfu Panda": [true, "Lord Shen"],
+   "Neobeast": [true, "Neobeast Ling"]
+   },
+  "Basic": {
+   "Collector": [true, "Serene Plume"],
+   "Mworld": [true, "M-World Ling"],
+   "Kungfu Panda": [true, "Lord Shen"]
+   }
+  }
+},
+{
+ "hero":"Dyrroth",
+ "name":"Prince of the Abyss",
+ "role":"Fighter",
+ "release":2019,
+ "specialty":"Charge/Burst",
+ "lane":"EXP Lane/Jungle",
+ "region":"The Barren Lands",
+ "id":85,
+ "skin":{
+  "Default":{
+   "KOF": [true, "Orochi Chris"],
+   "Starlight": [true, "Ruins Scavenger"],
+   "V.E.N.O.M": [true, "V.E.N.O.M Cobr"],
+   "Collector": [true, "Naraka Flame"],
+   "Hunter x Hunter": [true, "Gon"]
+  }
+ }
+},
+{
+ "hero":"Lylia",
+ "name":"Little Witch",
+ "role":"Mage",
+ "release":2019,
+ "specialty":"Push/Damage",
+ "lane":"Mid Lane",
+ "region":"Northern Vale",
+ "id":86,
+ "skin":{
+  "Default":{
+   "Special": [null, "Future Star"],
+   "Halloween": [true, "Haunted Doll"],
+   "Neobeast": [true, "Neobeast Lylia "],
+   "Starlight": [true, "Magitech Arsenal"]
+  }
+ }
+},
+{
+ "hero":"Baxia",
+ "name":"Mystic Tortoise",
+ "role":"Tank",
+ "release":2019,
+ "specialty":"Support/Damage",
+ "lane":"Jungle",
+ "region":"Cadia Riverlands",
+ "id":87,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Badass Roller"],
+   "Special": [true, "Ba-tender"],
+   "Special 2": [true, "Dauntless Shield"]
+  }
+ }
+},
+{
+ "hero":"Masha",
+ "name":"Wild-oats Fist",
+ "role":"Fighter/Tank",
+ "release":2019,
+ "specialty":"Push/Damage",
+ "lane":"EXP Lane",
+ "region":"Northern Vale",
+ "id":88,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Combat Maiden"],
+   "Dragon Tamer": [true, "Dragon Armor"],
+   "Special": [true, "Rogue Talon"],
+   "KOF": [true, "Mai Shiranui"]
+  }
+ }
+},
+{
+ "hero":"Wanwan",
+ "name":"Agile Tiger",
+ "role":"Marksman",
+ "release":2019,
+ "specialty":"Finisher/Burst",
+ "lane":"Gold Lane",
+ "region":"Cadia Riverlands",
+ "id":89,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Teen Pop"],
+   "Collector": [true, "Pixel Blast"],
+   "MPL": [true, "E-girl"],
+   "Mworld": [true, "M-World Wanwan"],
+   "11.11": [true, "Flying Swallow"],
+   "Summer": [null, "Summer Splash"]
+   },
+  "Basic": {
+   "Collector": [true, "Pixel Blast"],
+   "Mworld": [true, "M-World Wanwan"],
+   "11.11": [true, "Flying Swallow"],
+   "Summer": [null, "Summer Splash"]
+   }
+ }
+},
+{
+ "hero":"Silvanna",
+ "name":"Imperial Knightess",
+ "role":"Fighter",
+ "release":2019,
+ "specialty":"Initiator/Magic Damage",
+ "lane":"EXP Lane",
+ "region":"Moniyan Empire",
+ "id":90,
+ "skin":{
+  "Default":{
+   "Starlight": [null, "Pure Heroine"],
+   "Collector": [true, "Queen Frost"],
+   "Elite 2": [true, "Future Cop"],
+   "Elite 3": [true, "Verdant Lancer"],
+   "Valentine": [true, "Alluring Mystique"],
+   "Special": [true, "Classroom Charm"],
+   "Fatcat": [true, "Meowkin Warden"]
+  }
+ }
+},
+{
+ "hero":"Cecilion",
+ "name":"Embrance of Night",
+ "role":"Mage",
+ "release":2020,
+ "specialty":"Poke/Burst",
+ "lane":"Mid Lane",
+ "region":"Moniyan Empire",
+ "id":91,
+ "skin":{
+  "Default":{
+   "Valentine": [true, "Phantom Count"],
+   "Starlight": [true, "Stargazer"],
+   "Collector": [true, "Crimson Wings"],
+   "Hunter x Hunter": [true, "Hisoka"]
+  }
+ }
+},
+{
+ "hero":"Carmilla",
+ "name":"Shadow of Twilight",
+ "role":"Support/Tank",
+ "release":2020,
+ "specialty":"Crowd Control/Damage",
+ "lane":"Roaming",
+ "region":"Moniyan Empire",
+ "id":92,
+ "skin":{
+  "Default":{
+   "Valentine": [true, "Phantom Countess"],
+   "Epic": [true, "Astral Arcana"]
+  }
+ }
+},
+{
+ "hero":"Atlas",
+ "name":"Ocean Gladiator",
+ "role":"Tank",
+ "release":2020,
+ "specialty":"Crowd Control/Initiator",
+ "lane":"Roaming",
+ "region":"Northern Vale",
+ "id":93,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Fuel Turbine"],
+   "Starlight": [true, "Space Mech"],
+   "MSC 2023": [true, "Rune of Sentinel"],
+   "Collector": [true, "Mecha Infernus"]
+  }
+ }
+},
+{
+ "hero":"Popol and Kupa",
+ "name":"Icefield Companions",
+ "role":"Marksman",
+ "release":2020,
+ "specialty":"Push/Burst",
+ "lane":"Jungle/Gold Lane",
+ "region":"Northern Vale",
+ "id":94,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Trouble Makers"],
+   "Transformers": [true, "Soundwave & Ravage"],
+   "Collector": [null, "Spirit of the Brush"],
+   "AS 2025": [true, "Proto Hunter"]
+  }
+ }
+},
+{
+ "hero":"Yu Zhong",
+ "name":"Black Dragon",
+ "role":"Fighter",
+ "release":2020,
+ "specialty":"Regen/Damage",
+ "lane":"EXP Lane",
+ "region":"Cadia Riverlands",
+ "id":95,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Biohazard"],
+   "Collector": [true, "Blood Serpent"],
+   "Exorcist": ["https://www.mediafire.com/file/fisn0v7a6afgc9b/Zyvoid_x_Yu_Zhong_Exorcist.zip/file", "Exorcist Yu Zhong"],
+   "M5": [true, "Dragon's Shade"],
+   "Prime": [true, "Cosmic Dragon"]
+  }
+ }
+},
+{
+ "hero":"Luo Yi",
+ "name":"Yin-yang Geomancer",
+ "role":"Mage",
+ "release":2020,
+ "specialty":"Support/Crowd Control",
+ "lane":"Mid Lane",
+ "region":"Cadia Riverlands",
+ "id":96,
+ "skin":{
+  "Default":{
+   "Lunar Fest": [true, "Dawning Fortune"],
+   "Starlight": [true, "Siren Priestess"],
+   "Collector": [true, "Elysium Guardian"],
+   "Epic": [true, "Oracle of Soul"],
+   "Create": [true, "Starborne Matron"]
+  }
+ }
+},
+{
+ "hero":"Benedetta",
+ "name":"Shadow Ranger",
+ "role":"Assassin/Fighter",
+ "release":2020,
+ "specialty":"Chase/Burst",
+ "lane":"EXP Lane",
+ "region":"The Barren Lands",
+ "id":97,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Street Thrasher"],
+   "Collector": [true, "Death Oath"],
+   "Special": [true, "Moonblade"],
+   "Ducati": [true, "Panigale V4S Rider"],
+   "MPL": [true, "Quantum Edge"],
+   "Covenant": [true, "Phantom Mirage"]
+  }
+ }
+},
+{
+ "hero":"Khaleed",
+ "name":"Dessert Scimitar",
+ "role":"Fighter",
+ "release":2020,
+ "specialty":"Damage/Regen",
+ "lane":"EXP Lane",
+ "region":"Agelta Drylands",
+ "id":98,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Crescent Scimitar"],
+   "Epic": [true, "Wave Strider"]
+  }
+ }
+},
+{
+ "hero":"Barats",
+ "name":"Dino Rider",
+ "role":"Tank/Fighter",
+ "release":2020,
+ "specialty":"Damage/Crowd Control",
+ "lane":"Jungle",
+ "region":"Agelta Drylands",
+ "id":99,
+ "skin":{
+  "Default":{
+   "Halloween": [true, "Baratstein"],
+   "Epic": [true, "Sunken Predator"]
+  }
+ }
+},
+{
+ "hero":"Brody",
+ "name":"Lone Star",
+ "role":"Marksman",
+ "release":2020,
+ "specialty":"Burst/Finisher",
+ "lane":"Gold Lane",
+ "region":"The Barren Lands",
+ "id":100,
+ "skin":{
+  "Default":{
+   "S.T.U.N": [true, "S.T.U.N Brody"],
+   "Starlight": [true, "Lethal Fang"],
+   "Collector": ["https://www.mediafire.com/file/0krqd4duijebl39/Zyvoid_x_Brody_Collector.zip/file", "Ore-chemist"],
+   "MPL": [true, "Quantum Grip"],
+   "Champion": [true, "APBren"],
+   "Neobeast": [true, "Neobeast Brody"]
+  }
+ }
+},
+{
+ "hero":"Yve",
+ "name":"Astrowarden",
+ "role":"Mage",
+ "release":2021,
+ "specialty":"Burst/Poke",
+ "lane":"Mid Lane",
+ "region":"Northern Vale",
+ "id":101,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Ruin Protectress"]
+  }
+ }
+},
+{
+ "hero":"Mathilda",
+ "name":"Swift Plume",
+ "role":"Support/Assassin",
+ "release":2020,
+ "specialty":"Initiator/Guard",
+ "lane":"Roaming",
+ "region":"Los Pecados",
+ "id":102,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Floral Crown"],
+   "MPL": [true, "Dream Groove"],
+   "Epic": [true, "Dreambound Pixie"]
+  }
+ }
+},
+{
+ "hero":"Paquito",
+ "name":"Heavenly Fist",
+ "role":"Fighter/Assassin",
+ "release":2021,
+ "specialty":"Chase/Damage",
+ "lane":"EXP Lane",
+ "region":"The Barren Lands",
+ "id":103,
+ "skin":{
+  "Default":{
+   "Pacquiao": [true, "Manny Pacquiao"],
+   "Special": [true, "Underground Boxer"],
+   "Starlight": [true, "Fulgent Punch"],
+   "Special 2": [null, "Fist of Light"],
+   "Collector": [true, "Blazing Tiger"],
+   "KOF": [true, "Terry Bogard"],
+   "FMVP": [true, "Fist of Glory"]
+  }
+ }
+},
+{
+ "hero":"Gloo",
+ "name":"Swamp Spirits",
+ "role":"Tank",
+ "release":2021,
+ "specialty":"Regen/Control",
+ "lane":"EXP Lane/Roaming",
+ "region":"Azrya Woodlands",
+ "id":104,
+ "skin":{
+  "Default":{
+   "Special": [true, "Jellyman"]
+  }
+ }
+},
+{
+ "hero":"Beatrix",
+ "name":"Dawnbreak Soldier",
+ "role":"Marksman",
+ "release":2021,
+ "specialty":"Finisher/Damage",
+ "lane":"Gold Lane",
+ "region":"Agelta Drylands",
+ "id":105,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Space Agent"],
+   "M4": [true, "Light Chaser"],
+   "Prime": ["https://www.mediafire.com/file/uniha9nqkvf80fo/Zyvoid_x_Beatrix_Prime.zip/file", "Stellar Briliance"],
+   "Special": [null, "Vibrant Fiesta"]
+  }
+ }
+},
+{
+ "hero":"Phoveus",
+ "name":"Chains of Sin",
+ "role":"Fighter",
+ "release":2021,
+ "specialty":"Regen/Damage",
+ "lane":"EXP Lane",
+ "region":"The Barren Lands",
+ "id":106,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Matrix Maverick"]
+  }
+ }
+},
+{
+ "hero":"Natan",
+ "name":"Spacetime Walker",
+ "role":"Marksman",
+ "release":2021,
+ "specialty":"Burst/Magic Damage",
+ "lane":"Gold Lane",
+ "region":"Agelta Drylands",
+ "id":107,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Captain Chrono"],
+   "Collector": [true, "Tidal Lord"],
+   "Special": [true, "Temporal Vortex"],
+   "MSC 2024": ["https://www.mediafire.com/file/yrbo62z3yztrqwv/Zyvoid_x_Natan_MSC_2024.zip/file", "Archon of Knowledge"]
+  }
+ }
+},
+{
+ "hero":"Aulus",
+ "name":"Warrior of Ferocity",
+ "role":"Fighter",
+ "release":2021,
+ "specialty":"Damage/Crowd Control",
+ "lane":"Jungle",
+ "region":"The Barren Lands",
+ "id":108,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Barren Pioneer"],
+   "Special": [true, "War Lion"]
+  }
+ }
+},
+{
+ "hero":"Aamon",
+ "name":"Duke of Shards",
+ "role":"Assassin",
+ "release":2021,
+ "specialty":"Chase/Magic Damage",
+ "lane":"Jungle",
+ "region":"Moniyan Empire",
+ "id":109,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Noble Crest"],
+   "Starlight": [true, "Cyber Assassin"],
+   "Soul Vessel": [true, "Vessel of Deceit"]
+  }
+ }
+},
+{
+ "hero":"Valentina",
+ "name":"Prophetess of the Night",
+ "role":"Mage",
+ "release":2021,
+ "specialty":"Burst/Finisher",
+ "lane":"Mid Lane",
+ "region":"Moniyan Empire",
+ "id":110,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Cyber Agent"],
+   "Collector": [true, "Celestial Judicator"],
+   "MSC 2024": [true, "Dark Nexus"]
+  }
+ }
+},
+{
+ "hero":"Edith",
+ "name":"Ancient Guard",
+ "role":"Tank/Marksman",
+ "release":2021,
+ "specialty":"Control/Burst",
+ "lane":"EXP Lane/Roaming",
+ "region":"Sanctum Island",
+ "id":111,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Ancient Warden"],
+   "Collector": [true, "Red Bastion"],
+   "Clouds": [null, "Beyond the Clouds Edith"],
+   "MPL": [true, "Prismatic Sentinel"]
+  }
+ }
+},
+{
+ "hero":"Floryn",
+ "name":"Budding Hope",
+ "role":"Support",
+ "release":2021,
+ "specialty":"Poke/Guard",
+ "lane":"Roaming",
+ "region":"Agelta Drylands",
+ "id":112,
+ "skin":{
+  "Default":{
+   "Sanrio": [true, "Fluffy Dream"],
+   "Summer": [true, "Yatai Waitress"],
+   "Collector": [true, "Melody of Light"]
+  }
+ }
+},
+{
+ "hero":"Yin",
+ "name":"Martial Genius",
+ "role":"Fighter/Assassin",
+ "release":2022,
+ "specialty":"Burst/Control",
+ "lane":"Jungle/EXP Lane",
+ "region":"Cadia Riverlands",
+ "id":113,
+ "skin":{
+  "Default":{
+   "Mworld": ["https://www.mediafire.com/file/iev8dnw53emm89i/Zyvoid_x_Yin_Mworld.zip/file", "M-World Yin"],
+   "Jujutsu Kaisen": [true, "Yuji Itadori"],
+   "Starlight": [true, "Eternal Guardian"],
+   "Attack on Titan": ["https://www.mediafire.com/file/34c4d7xjfflqrh8/Zyvoid_x_Yin_Attack_on_Titan.zip/file", "Eren"],
+   "Custom Obito": [true, "Custom Obito"]
+  }
+ }
+},
+{
+ "hero":"Melissa",
+ "name":"Cursed Needle",
+ "role":"Marksman",
+ "release":2022,
+ "specialty":"Finisher/Damage",
+ "lane":"Gold Lane",
+ "region":"Moniyan Empire",
+ "id":114,
+ "skin":{
+  "Default":{
+   "Jujutsu Kaisen": [true, "Nobara Kugisaki"],
+   "Starlight": [true, "Nightwalker"],
+   "Sparkle": [true, "SPARKLE Melissa"],
+   "Collector": [true, "Umbra Bloom"]
+  }
+ }
+},
+{
+ "hero":"Xavier",
+ "name":"Defier of Light",
+ "role":"Mage",
+ "release":2022,
+ "specialty":"Damage/Guard",
+ "lane":"Mid Lane",
+ "region":"Moniyan Empire",
+ "id":115,
+ "skin":{
+  "Default":{
+   "Jujutsu Kaisen": [true, "Satoru Gojo"],
+   "Starlight": [true, "Hardlight Artificer"],
+   "Clouds": [true, "Beyond the Clouds Xavier"]
+  }
+ }
+},
+{
+ "hero":"Julian",
+ "name":"Scarlet Raven",
+ "role":"Assassin/Fighter",
+ "release":2022,
+ "specialty":"Chase/Magic Damage",
+ "lane":"Jungle",
+ "region":"Moniyan Empire",
+ "id":116,
+ "skin":{
+  "Default":{
+   "Jujutsu Kaisen": [true, "Megumi Fushiguro"],
+   "Fatcat": [true, "Meowkin Tracker"],
+   "Hunter x Hunter": [true, "Kurapika"]
+  }
+ }
+},
+{
+ "hero":"Fredrinn",
+ "name":"Rogue Appraiser",
+ "role":"Fighter/Tank",
+ "release":2022,
+ "specialty":"Damage/Chase",
+ "lane":"Jungle",
+ "region":"Los Pecados",
+ "id":117,
+ "skin":{
+  "Default":{
+   "Neobeast": [true, "Neobeast Fredrinn"],
+   "Sparkle": [true, "SPARKLE Fredrinn"]
+  }
+ }
+},
+{
+ "hero":"Joy",
+ "name":"Flash of Miracle",
+ "role":"Assassin",
+ "release":2022,
+ "specialty":"Chase/Damage",
+ "lane":"Jungle",
+ "region":"Azrya Woodlands",
+ "id":118,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Royal Protector"],
+   "Starlight": [true, "Exostar Scout"]
+  }
+ }
+},
+{
+ "hero":"Novaria",
+ "name":"Star Rebel",
+ "role":"Mage",
+ "release":2023,
+ "specialty":"Burst/Poke",
+ "lane":"Mid Lane",
+ "region":"Agelta Drylands",
+ "id":119,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Sugar Glaze"],
+   "Collector": ["https://www.mediafire.com/file/6rczielkedtsnfj/Zyvoid_x_Novaria_Collector.zip/file", "Dragon Sworn"]
+  }
+ }
+},
+{
+ "hero":"Arlott",
+ "name":"Lone Lancer",
+ "role":"Fighter/Assassin",
+ "release":2023,
+ "specialty":"Charge/Burst",
+ "lane":"EXP Lane",
+ "region":"Moniyan Empire",
+ "id":120,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Fury of the Deep"],
+   "Collector": [true, "Aeon of Twilight"]
+  }
+ }
+},
+{
+ "hero":"Ixia",
+ "name":"Arclight Outlaw",
+ "role":"Marksman",
+ "release":2023,
+ "specialty":"Finisher/Damage",
+ "lane":"Gold Lane",
+ "region":"Agelta Drylands",
+ "id":121,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Dynamic Streak"]
+  }
+ }
+},
+{
+ "hero":"Nolan",
+ "name":"Cosmic Wayfinder",
+ "role":"Assassin",
+ "release":2023,
+ "specialty":"Chase/Burst",
+ "lane":"Jungle",
+ "region":"Agelta Drylands",
+ "id":122,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Fashion Mogul"],
+   "11.11 ": [true, "The Navigator"]
+  },
+  "Basic": {
+   "Starlight": [true, "Fashion Mogul"],
+   "11.11 ": [true, "The Navigator"]
+  }
+ }
+},
+{
+ "hero":"Cici",
+ "name":"Buoyant Performer",
+ "role":"Fighter",
+ "release":2023,
+ "specialty":"Damage/Regen",
+ "lane":"EXP Lane",
+ "region":"Moniyan Empire",
+ "id":123,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Circus Reverie"]
+  }
+ }
+},
+{
+ "hero":"Chip",
+ "name":"Phase Technician",
+ "role":"Support/Tank",
+ "release":2024,
+ "specialty":"Support/Crowd Control",
+ "lane":"Roaming",
+ "region":"Laboratory 1718",
+ "id":124,
+ "skin":{
+  "Default":{
+   "Elite": [true, "Badlands Hiatus"]
+  }
+ }
+},
+{
+ "hero":"Zhuxin",
+ "name":"Beacon of Spirits",
+ "role":"Mage",
+ "release":2024,
+ "specialty":"Damage/Crowd Control",
+ "lane":"Mid Lane",
+ "region":"Cadia Riverlands",
+ "id":125,
+ "skin":{
+  "Default":{
+   "Starlight": [true, "Emberwisp Mystic"]
+  }
+ }
+},
+{
+ "hero":"Suyou",
+ "name":"Mask of the Immortal",
+ "role":"Assassin/Fighter",
+ "release":2024,
+ "specialty":"Chase/Burst",
+ "lane":"Jungle",
+ "region":"Cadia Riverlands",
+ "id":126,
+ "skin":{
+  "Default":{
+   "Naruto": [true, "Sasuke Uchiha"]
+  }
+ }
+},
+{
+ "hero":"Lukas",
+ "name":"Beast of Light",
+ "role":"Fighter",
+ "release":2024,
+ "specialty":"Regen/Damage",
+ "lane":"EXP Lane/Jungle",
+ "region":"Moniyan Empire",
+ "id":127,
+ "skin":{
+  "Default":{
+   "Naruto": ["https://www.mediafire.com/file/290exk5welj8hgo/Zyvoid_x_Lukas_Naruto.zip/file", "Naruto Uzumaki"]
+  }
+ }
+},
+{
+ "hero":"Kalea",
+ "name":"Surging Wave",
+ "role":"Support/Fighter",
+ "release":2025,
+ "specialty":"Control/Regen",
+ "lane":"Roaming",
+ "region":"Vonetis Sea",
+ "id":128,
+ "skin":{
+  "Default":{
+   "Basic":[null, "Shimmering Waves"],
+   "Naruto":[true, "Sakura Haruno"]
+  }
+ }
+},
+{
+ "hero":"Zetian",
+ "name":"Celestial Empress",
+ "role":"Mage",
+ "release":2025,
+ "specialty":"Damage/Crowd Control",
+ "lane":"Mid Lane",
+ "region":"Cadia Riverlands",
+ "id":129,
+ "skin":{
+  "Default":{}
+ }
+}
+]
