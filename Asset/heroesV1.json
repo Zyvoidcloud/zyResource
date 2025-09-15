@@ -92,9 +92,9 @@
  "id":5,
  "skin":{
   "Default":{
-   "Elite": [true, "Clockwork Maid"],
+   "Elite": [null, "Clockwork Maid"],
    "S1": [true, "Graveyard Party"],
-   "Elite 2": [true, "Slumber Party"],
+   "Elite 2": [null, "Slumber Party"],
    "MPL": [true, "Wind Fairy"],
    "Epic": [true, "Mecha Baby"],
    "Summer": [true, "Sundress"],
