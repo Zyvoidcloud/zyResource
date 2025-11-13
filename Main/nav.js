@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
  const brandBtn = document.createElement('button');
 brandBtn.id = 'myBrand';
 brandBtn.addEventListener('click', () => {
- window.location.href = "#";
+ window.location.href = "https://www.zyvoid.cloud";
 });
  
  brandBtn.textContent = 'ZYVOID';
@@ -30,13 +30,13 @@ brandBtn.addEventListener('click', () => {
  boxMenu.className = 'boxMenu';
  
  const menuItems = [
-  { text: 'Dashboard', link: '/dashboard' },
-  { text: 'Heroes', link: '/heroes' },
-  { text: 'Battle Effect', link: '/battle-effect' },
-  { text: 'Apa Yang Baru', link: '/whats-new' },
-  { text: 'Request Script', link: '/request-script' },
-  { text: 'Laporkan Script', link: '/report-script' },
-  { text: 'Youtube', link: 'https://youtube.com' }
+  { text: 'Dashboard', link: 'https://www.zyvoid.cloud/2025/11/home.html' },
+  { text: 'Heroes', link: 'https://www.zyvoid.cloud/2025/11/heroes.html' },
+  { text: 'Battle Effect', link: 'https://www.zyvoid.cloud/2025/11/effect-battle.html' },
+  { text: 'Apa Yang Baru', link: 'https://www.zyvoid.cloud/2025/11/what-new.html' },
+  {text: 'Tutorial Pasang', link: 'https://youtu.be/dRdj8-grSNk?si=BOq-qqYWUucNTW24' },
+  { text: 'Request/Laporkan Script', link: 'https://youtu.be/5l7dcO5kReE?si=SnEECP7nTsUGFAXE' },
+  { text: 'Youtube', link: 'https://youtube.com/@zyvoid?si=kSWHK5t1K8KVC1zE' }
  ];
  
  menuItems.forEach(item => {
