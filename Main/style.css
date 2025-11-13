@@ -1,1 +1,118 @@
 
+*{
+ -webkit-tap-highlight-color:transparent!important;
+ tap-highlight-color:transparent!important;
+ outline:0!important;
+ box-sizing:border-box;}
+
+body{
+ background:#060606;
+ color:#eee;
+ padding:0px;
+ margin:0px;
+ font-family:"Monda", sans-serif;}
+
+button,input,a{
+ font-family:inherit;
+ background:transparent;
+ text-decoration:none;
+ color:#eee;
+ border:none;
+ border-radius:2px;}
+ 
+.myNav{
+ display:flex;
+ justify-content:space-between;
+ padding:0px;
+ margin:0px;
+ height:55px;
+ width:100%;
+ background:rgba(9,9,9,0.5);
+ backdrop-filter:blur(6px);
+ border-bottom:0.5px solid #eee;
+ border-radius:0px 0px 2px 2px;
+ position:fixed;
+ top:0px;
+ left:0px;
+ z-index:99;
+}
+ 
+#myBrand{
+ display:block;
+ padding:0px;
+ margin:14px 0px auto 12px;
+ font-family:"Audiowide", sans-serif;
+ font-size:20px;
+ font-weight:450;
+ color:#eee;
+ width:max-content;
+}
+
+#btnOpenMenu{
+ display:block;
+ border:0.5px solid #444;
+ margin:auto 12px auto 0px;
+ height:34px;
+ width:34px;
+}
+
+.iconOpenMenu{
+ font-size:21px !important;
+ font-weight:300;
+ color:#eee;
+ padding:0px;
+ margin:0px;
+ display:block;
+ position:relative;
+ top:3.5px;
+ transition:0.4s;
+}
+
+#containerMenu{
+ display:block;
+ padding:0px;
+ height:100%;
+ width:0px;
+ position:fixed;
+ top:55px;
+ right:-1px;
+ overflow:hidden;
+ background:#090909;
+ border-left:0.5px solid #aaa;
+ transition:0.4s;
+}
+
+.contentMenu{
+ display:block;
+ padding:0px;
+ margin:0px;
+ height:100%;
+ overflow:auto;
+ width:200px;
+}
+
+.boxMenu{
+ display:block;
+ padding:8px 8px 10px 8px;
+ margin:0px;
+}
+
+.btnMenu{
+ display:block;
+ font-size:11.5px;
+ font-weight:300;
+ text-align:right;
+ border-bottom:0.5px solid #444;
+ padding:9px 10px 10px 0px;
+ margin:0px;
+ font-size:#ddd;
+ border-radius:1px;
+ transition:0.4s;
+}
+
+.btnMenu:hover{
+ background:#eee;
+ color:#090909;
+ font-weight:450;
+ transition:0.4s;
+}
