@@ -361,7 +361,7 @@
    "Aspirants": [true, "Blade of Kibou"],
    "Valentine": [true, "Heart Afloat"],
    "Attack on Titan": [true, "Mikasa"],
-   "9th": [true, "P.ACE"]
+   "P.ACE": [true, "P.ACE"]
   },
   "Elite":{
    "Luckybox": [true, "Skylark"],
@@ -2379,7 +2379,8 @@
  "id":123,
  "skin":{
   "Default":{
-   "Starlight": [true, "Circus Reverie"]
+   "Starlight": [true, "Circus Reverie"],
+   "P.ACE": [true, "P.ACE"]
   }
  }
 },
@@ -2409,7 +2410,8 @@
  "id":125,
  "skin":{
   "Default":{
-   "Starlight": [true, "Emberwisp Mystic"]
+   "Starlight": [true, "Emberwisp Mystic"],
+   "P.ACE": [true, "P.ACE Zhuxin"]
   }
  }
 },
