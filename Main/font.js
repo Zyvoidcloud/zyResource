@@ -23,3 +23,30 @@ function loadGoogleFonts() {
  }
 
 document.addEventListener('DOMContentLoaded', loadGoogleFonts);
+
+document.addEventListener("DOMContentLoaded", function() {
+ const nav = document.createElement('nav');
+ nav.className = 'myNav';
+ 
+ const brandBtn = document.createElement('button');
+ brandBtn.id = 'myBrand';
+ brandBtn.addEventListener('click', () => {
+  window.location.href = "https://www.zyvoid.cloud";
+ });
+ brandBtn.textContent = 'Zyvoid';
+ nav.appendChild(brandBtn);
+ 
+ const openMenuBtn = document.createElement('button');
+ openMenuBtn.id = 'btnGoHome';
+ openMenuBtn.addEventListener('click', () => {
+  window.location.href = "https://www.zyvoid.cloud/2025/11/home.html";
+ });
+ 
+ const menuIcon = document.createElement('span');
+ menuIcon.className = 'material-symbols-outlined iconGoHome';
+ menuIcon.textContent = 'cottage';
+ openMenuBtn.appendChild(menuIcon);
+ nav.appendChild(openMenuBtn);
+ 
+ document.body.appendChild(nav);
+});
