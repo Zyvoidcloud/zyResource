@@ -1,4 +1,3 @@
-
 *{
  -webkit-tap-highlight-color:transparent!important;
  tap-highlight-color:transparent!important;
@@ -34,7 +33,7 @@ button,input,a{
  position:fixed;
  top:0px;
  left:0px;
- z-index:99;
+ z-index:999;
 }
  
 #myBrand{
@@ -48,7 +47,7 @@ button,input,a{
  width:max-content;
 }
 
-#btnOpenMenu{
+#btnGoHome{
  display:block;
  border:0.5px solid #444;
  margin:auto 12px auto 0px;
@@ -56,7 +55,7 @@ button,input,a{
  width:34px;
 }
 
-.iconOpenMenu{
+.iconGoHome{
  font-size:21px !important;
  font-weight:300;
  color:#eee;
@@ -65,54 +64,5 @@ button,input,a{
  display:block;
  position:relative;
  top:3.5px;
- transition:0.4s;
-}
-
-#containerMenu{
- display:block;
- padding:0px;
- height:100%;
- width:0px;
- position:fixed;
- top:55px;
- right:-1px;
- overflow:hidden;
- background:#090909;
- border-left:0.5px solid #aaa;
- transition:0.4s;
-}
-
-.contentMenu{
- display:block;
- padding:0px;
- margin:0px;
- height:100%;
- overflow:auto;
- width:200px;
-}
-
-.boxMenu{
- display:block;
- padding:8px 8px 10px 8px;
- margin:0px;
-}
-
-.btnMenu{
- display:block;
- font-size:11.5px;
- font-weight:300;
- text-align:right;
- border-bottom:0.5px solid #444;
- padding:9px 10px 10px 0px;
- margin:0px;
- font-size:#ddd;
- border-radius:1px;
- transition:0.4s;
-}
-
-.btnMenu:hover{
- background:#eee;
- color:#090909;
- font-weight:450;
  transition:0.4s;
 }
