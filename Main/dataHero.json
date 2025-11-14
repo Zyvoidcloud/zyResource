@@ -222,7 +222,8 @@
    "Basic": [true, "Deep Sea Monster"],
    "S11": [true, "Warlord"],
    "Elite": [true, "Underworld Outlaw"],
-   "Epic 2": [true, "Soul Defiler"]
+   "Epic 2": [true, "Soul Defiler"],
+   "Starlight": [true, "Lord of Scalding Seas"]
   }
  }
 },
@@ -359,7 +360,8 @@
    "Christmas": [true, "Christmas Carnival"],
    "Aspirants": [true, "Blade of Kibou"],
    "Valentine": [true, "Heart Afloat"],
-   "Attack on Titan": [true, "Mikasa"]
+   "Attack on Titan": [true, "Mikasa"],
+   "9th": [true, "P.ACE"]
   },
   "Elite":{
    "Luckybox": [true, "Skylark"],
@@ -582,6 +584,7 @@
   "Default":{
    "Starlight": [true, "Simian Curse"],
    "Lunar Fest": [true, "Spring Blessings"],
+   "Starlight Gold": [true, "Quiller of Chaos"],
    "Collector": ["https://www.mediafire.com/file/zyhk01rtat2zotf/Zyvoid_x_Sun_Collector.zip/file", "Wicked Flames"],
    "Custom Naruto": [true, "Naruto"]
   }
@@ -2041,7 +2044,8 @@
    "Starlight": [true, "Fulgent Punch"],
    "Collector": [true, "Blazing Tiger"],
    "KOF": [true, "Terry Bogard"],
-   "FMVP": [true, "Fist of Glory"]
+   "FMVP": [true, "Fist of Glory"],
+   "Epic": [true, "Demontech Striker"]
   }
  }
 },
